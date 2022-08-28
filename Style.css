@@ -13,12 +13,10 @@ body {
 }
 
 .main {
- display: grid;
 }
 
 .sidebar {
   text-align: left;
-  display: grid;
 }
 
 footer {
