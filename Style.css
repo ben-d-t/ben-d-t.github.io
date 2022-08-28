@@ -13,11 +13,12 @@ body {
 }
 
 .main {
-  
+ display: grid;
 }
 
 .sidebar {
   text-align: right;
+  display: grid;
 }
 
 footer {
