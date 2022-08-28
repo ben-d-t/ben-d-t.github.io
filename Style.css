@@ -5,6 +5,12 @@ body {
   color: #F0F0F0;
 }
 
+.full_page {
+ display: grid;
+ width: 80%;
+ grid-template-columns: 75%, 25%;
+}
+
 .main {
   
 }
