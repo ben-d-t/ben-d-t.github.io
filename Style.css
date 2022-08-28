@@ -9,7 +9,7 @@ body {
  display: grid;
  width: 90%;
  grid-template-columns: 75%, 25%;
- grid-gap: 20px, 10px;
+ gap: 20px, 10px;
 }
 
 .main {
