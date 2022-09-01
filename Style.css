@@ -18,7 +18,8 @@ body {
 }
 
 .sidebar {
-  text-align: right;
+  text-align: left;
+  background-color: darkred;
 }
 
 footer {
