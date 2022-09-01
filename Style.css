@@ -10,7 +10,6 @@ body {
  background-color: gray;
  grid-template-columns: 80% 20%;
  padding: 10px;
- gap: 20px;
 }
 
 .main {
@@ -19,7 +18,7 @@ body {
 
 .sidebar {
   text-align: left;
-  background-color: yellow;
+  background-color: darkred;
 }
 
 footer {
