@@ -7,12 +7,13 @@ body {
 
 .full_page {
  display: grid;
- width: 90%;
- grid-template-columns: 75%, 25%;
- gap: 20px, 10px;
+ background-color: gray;
+ grid-template-columns: 75% 25%;
+ padding: 20px;
 }
 
 .main {
+  background-color: white;
 }
 
 .sidebar {
