@@ -23,6 +23,10 @@ body {
   padding: 10px;
 }
 
+a {
+ color: #00b3e5;
+}
+  
 footer {
   text-align: center;
   font-size: 10px;
