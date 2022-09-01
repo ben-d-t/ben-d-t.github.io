@@ -13,13 +13,11 @@ body {
 }
 
 .main {
-  background-color: white;
   padding: 10px;
 }
 
 .sidebar {
   text-align: left;
-  background-color: darkred;
   padding: 10px;
 }
 
