@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+
+<html>
+ 
+<head>
+ <link rel="stylesheet" href="Style.css">
+ <link rel="preconnect" href="https://fonts.googleapis.com"> 
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+ <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+ <meta http-equiv='cache-control' content='no-cache'> 
+ <meta http-equiv='expires' content='0'> 
+ <meta http-equiv='pragma' content='no-cache'>
+</head>
+ 
+
+<body>
+ <div class="full_page">
+  
+  <div class="main">
+   <h2>About</h2>
+   <p>Here is the About page. It is coming soon...</p>
+  </div>
+
+  <div class="sidebar">
+   <p><b>Ben Thomas</b></p>
+   <p>About</p>
+   <p>Projects</p>
+   <p>On Writing</p>
+   <p>Housing Affordability</p>
+   <p>Autism & Education</p>
+   <p>Technology & Society</p>
+   <p>Economics of Progress</p>
+   <p>The Bible in the 21st Century</p>
+   <p>Other</p>
+  </div>
+  
+ </div>
+ 
+ <footer>
+  <p>Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+   Starting out with <a href="https://pages.github.com/">Github Pages</a>.</p>
+ </footer>
+ 
+</body>
+ 
+</html>
