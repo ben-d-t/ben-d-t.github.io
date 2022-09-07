@@ -22,11 +22,13 @@ body {
 
 .main {
   padding: 10px;
+  height: 100%;
 }
 
 .sidebar {
   text-align: left;
   padding: 10px;
+  height: 100%;
 }
 
 a {
@@ -36,4 +38,5 @@ a {
 footer {
   text-align: center;
   font-size: 10px;
+  height: 50px;
 }
