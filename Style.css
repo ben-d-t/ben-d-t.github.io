@@ -40,3 +40,8 @@ footer {
   font-size: 10px;
   height: 50px;
 }
+
+.footer_content {
+  height: 40px;
+  padding: 10px;
+}
