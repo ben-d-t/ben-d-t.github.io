@@ -20,8 +20,62 @@
  <div class="full_page">
   
   <div class="main">
-   <h2>Advent of Code 20221</h2>
-   <p>Here is the page.</p>
+   <h2>Advent of Code 2022</h2>
+   <p>I'm doing <a href="https://adventofcode.com/2022/about">Eric Wastl's Advent of Code</a> with friends. It's a fun advent calendar of daily programming puzzles.<br>
+    This page saves my puzzles solutions for later and helps keep me accountable to completing it.<br>
+    I'm trying to complete the puzzles, not get to the most efficient solution. But I'd like to rewrite some as I go.<br> 
+   </p>
+   <ul>
+    <li>Day 1<br>
+     <pre>
+      <code>
+         # https://adventofcode.com/2022/day/1
+         # Part 1
+
+         # https://www.tutorialkart.com/python/python-read-file-as-string/
+         text_file = open("input.txt", "r")
+         data = text_file.read()
+
+         # https://bobbyhadz.com/blog/python-split-string-on-newline-character
+         items = data.splitlines()
+         #print(items)
+
+         elves = []
+         elf = []
+         for i in items:
+             if i != "":
+                 elf.append(int(i))
+             else:
+                 elves.append(elf)
+                 elf = []
+         #print(elves)
+
+         totals = []
+         for elf in elves:
+             count = 0
+             for item in elf:
+                 count += item
+             totals.append(count)
+         #print(totals)
+         print(max(totals))
+
+         # Part 2
+         first = max(totals)
+         totals.remove(max(totals))
+         second = max(totals)
+         totals.remove(max(totals))
+         third = max(totals)
+         print(first+second+third)
+      </code>
+     </pre>
+    </li>
+    
+    <li>Day 2</li>
+    
+    <li>Day 3</li>
+    
+   </ul>
+
   </div>
 
   <div class="sidebar">
