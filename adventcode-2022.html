@@ -11,7 +11,7 @@
  <meta http-equiv='expires' content='0'> 
  <meta http-equiv='pragma' content='no-cache'>
  
- <title>Economics of Progress</title>
+ <title>Advent of Code '22</title>
  
 </head>
  
@@ -26,7 +26,7 @@
     I'm trying to complete the puzzles, not get to the most efficient solution. But I'd like to rewrite some as I go.<br> 
    </p>
    <ul>
-    <li>Day 1<br>
+    <li>Day 1 - Python</br>
      <pre>
       <code>
          # https://adventofcode.com/2022/day/1
@@ -70,10 +70,85 @@
      </pre>
     </li>
     
-    <li>Day 2</li>
+    <li>Day 2 - Python<br>
+     <pre>
+      <code>
+        # https://adventofcode.com/2022/day/2
+        # Part 1
+
+        text = open("input.txt", "r")
+        rounds = text.read().splitlines()
+        #print(rounds)
+
+        # A : Rock, B : Paper, C : Scissors -- X : Rock, Y : Paper, Z : Scissors
+        scoring = {
+            "A X": 3 + 1,
+            "A Y": 6 + 2,
+            "A Z": 0 + 3,
+            "B X": 0 + 1,
+            "B Y": 3 + 2,
+            "B Z": 6 + 3,
+            "C X": 6 + 1,
+            "C Y": 0 + 2,
+            "C Z": 3 + 3,
+        }
+
+        score = 0
+
+        for r in rounds:
+            # print(scoring.get(r))
+            score += scoring.get(r)
+
+        print(score)
+      </code>
+     </pre>
+    </li>
     
-    <li>Day 3</li>
+    <li>Day 3 - Python - Today I used OpenAI Chat instead of Google to answer questions<br>
+     <pre>
+      <code>
+      # https://adventofcode.com/2022/day/3
+      # Part 1
+      import math
+
+      text = open("input.txt", "r")
+      rucksacks = text.read().splitlines()
+
+      shared_items = []
+
+      # Using openai chat to figure things out instead of Google
+      for r in rucksacks:
+          mid = math.ceil(len(r) / 2)
+          shared_items.append("".join(set(r[:mid]).intersection(set(r[mid:]))))
+      # print(shared_items)
+
+      total = 0
+      for i in shared_items:
+          v = 0
+          lower_value = ord(i.lower()) - 96
+          if i.isupper():
+              v = lower_value + 26
+          else:
+              v = lower_value
+          total += v
+      print(total)
+
+      # Part 2
+      total2 = 0
+      for i in range(0, len(rucksacks), 3):
+          badge = "".join(set(rucksacks[i]).intersection(set(rucksacks[i + 1]), set(rucksacks[i + 2])))
+          lower_value2 = ord(badge.lower()) - 96
+          if badge.isupper():
+              total2 += lower_value2 + 26
+          else:
+              total2 += lower_value2
+      # print(groups)
+      print(total2)
+      </code>
+     </pre>
+    </li>
     
+  <li></li>
    </ul>
 
   </div>
