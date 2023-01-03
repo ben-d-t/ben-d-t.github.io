@@ -4,5 +4,6 @@ TODO:
   - Readwise Reader is formatted similarly
   - A UX article here: https://baymard.com/blog/line-length-readability
 - Learn how to make the sidebar pull from another file so I don't have to replicate it
+- Make a template.html file so that it's easier to add something new
 
 DONE:
