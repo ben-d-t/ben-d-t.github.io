@@ -27,7 +27,7 @@ html, body {
 .main {
   padding: 50px;
   height: 100%;
-  word-spacing: 10px;
+  word-spacing: 100px;
   line-height: 1.5;
   letter-spacing: 2px;
 }
