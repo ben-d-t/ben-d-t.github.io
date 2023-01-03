@@ -27,9 +27,9 @@ html, body {
 .main {
   padding: 50px;
   height: 100%;
-  word-spacing: 10px;
-  line-height: 1.5;
-  letter-spacing: 2px;
+  word-spacing: 1.2;
+  line-height: 1.2;
+  /* letter-spacing: 2px; */
 }
 
 .sidebar {
