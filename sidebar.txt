@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Sidebar</title>
-  </head>
-  <body>
-   <div class="sidebar">
      <p><b>Ben Thomas</b></p>
      <p><a href="/about">About</a></p>
      <p><a href="/projects">Projects</a></p>
@@ -16,6 +9,3 @@
      <p><a href="/bible">The Bible in the 21st Century</a></p>
      <p><a href="/cos">Chief of Staff</a></p>
      <p><a href="/other">Other</a></p>
-    </div>
-  </body>
-</html>
