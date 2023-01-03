@@ -43,40 +43,11 @@
 
   <div class="sidebar" id="sidebar"></div>
  
- 
-  
  </div> 
  
- <footer>
-  <div class="footer_content" id="footer_content"></div>
- </footer>
+ <footer><div class="footer_content" id="footer_content"></div></footer>
 
-<script>
-  function loadSidebar() {
-    fetch('sidebar.txt')
-      .then(response => response.text())
-      .then(data => {
-        document.getElementById('sidebar').innerHTML = data;
-      })
-      .catch(error => {
-        console.error('Error:', error);
-      });
-  }
-  loadSidebar();
- 
-  function loadFooter() {
-    fetch('footer.txt')
-      .then(response => response.text())
-      .then(data => {
-        document.getElementById('footer_content').innerHTML = data;
-      })
-      .catch(error => {
-        console.error('Error:', error);
-      });
-  }
-  loadFooter(); 
- 
-</script> 
+ <script src="main.js"></script>
  
 </body>
  
