@@ -41,9 +41,23 @@
   
   </div>
 
-  <div class="sidebar">
-   <iframe src ="sidebar.html"></iframe>
+  <div class="sidebar" id="sidebar">
   </div>
+ 
+<script>
+  function loadSidebar() {
+    fetch('sidebar.txt')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('sidebar').innerHTML = data;
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+  }
+  loadSidebar();
+</script>
+ 
   
  </div>
  
