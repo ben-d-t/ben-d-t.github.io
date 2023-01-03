@@ -1,0 +1,8 @@
+TODO:
+- Increase spacing between words
+- Cap out the horizontal length of any page similar to PG: http://www.paulgraham.com/gfaq.html
+  - Readwise Reader is formatted similarly
+  - A UX article here: https://baymard.com/blog/line-length-readability
+- Learn how to make the sidebar pull from another file so I don't have to replicate it
+
+DONE:
