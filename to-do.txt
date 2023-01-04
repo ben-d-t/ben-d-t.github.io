@@ -1,5 +1,4 @@
 TODO:
-- Make a template.html file so that it's easier to add something new
 
 
 DONE:
@@ -12,3 +11,4 @@ DONE:
 - Safari doesn't seem to render the Google font...
   - Wait, actually I think that was color contrast difference b/w my laptop & monitor? Weird
 - Increase spacing between words
+- Make a template.html file so that it's easier to add something new
