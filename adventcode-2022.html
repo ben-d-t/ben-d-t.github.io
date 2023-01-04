@@ -21,135 +21,18 @@
   
   <div class="main">
    <h2>Advent of Code 2022</h2>
-   <p>I'm doing <a href="https://adventofcode.com/2022/about">Eric Wastl's Advent of Code</a> with friends. It's a fun advent calendar of daily programming puzzles.<br>
-    This page saves my puzzles solutions for later and helps keep me accountable to completing it.<br>
-    I'm trying to complete the puzzles, not get to the most efficient solution. But I'd like to rewrite some as I go.<br> 
+   <p>I did <a href="https://adventofcode.com/2022/about">Eric Wastl's Advent of Code</a> with friends in 2022. It's a fun advent calendar of daily programming puzzles.<br>
+    This page saves my puzzles solutions for later and helps keep me on track.<br>
+    I'm trying to complete the puzzles, not get to the most efficient solution. But I might rewrite some solutions.<br> 
+    I ended up completing 12 days during December.
+    My input files & solutions are <a href="https://github.com/ben-d-t/ben-d-t.github.io/tree/main/adventofcode2022">saved on Github</a>. 
    </p>
-   <ul>
-    <li>Day 1 - Python</br>
-     <pre>
-      <code>
-         # https://adventofcode.com/2022/day/1
-         # Part 1
-
-         # https://www.tutorialkart.com/python/python-read-file-as-string/
-         text_file = open("input.txt", "r")
-         data = text_file.read()
-
-         # https://bobbyhadz.com/blog/python-split-string-on-newline-character
-         items = data.splitlines()
-         #print(items)
-
-         elves = []
-         elf = []
-         for i in items:
-             if i != "":
-                 elf.append(int(i))
-             else:
-                 elves.append(elf)
-                 elf = []
-         #print(elves)
-
-         totals = []
-         for elf in elves:
-             count = 0
-             for item in elf:
-                 count += item
-             totals.append(count)
-         #print(totals)
-         print(max(totals))
-
-         # Part 2
-         first = max(totals)
-         totals.remove(max(totals))
-         second = max(totals)
-         totals.remove(max(totals))
-         third = max(totals)
-         print(first+second+third)
-      </code>
-     </pre>
-    </li>
-    
-    <li>Day 2 - Python<br>
-     <pre>
-      <code>
-        # https://adventofcode.com/2022/day/2
-        # Part 1
-
-        text = open("input.txt", "r")
-        rounds = text.read().splitlines()
-        #print(rounds)
-
-        # A : Rock, B : Paper, C : Scissors -- X : Rock, Y : Paper, Z : Scissors
-        scoring = {
-            "A X": 3 + 1,
-            "A Y": 6 + 2,
-            "A Z": 0 + 3,
-            "B X": 0 + 1,
-            "B Y": 3 + 2,
-            "B Z": 6 + 3,
-            "C X": 6 + 1,
-            "C Y": 0 + 2,
-            "C Z": 3 + 3,
-        }
-
-        score = 0
-
-        for r in rounds:
-            # print(scoring.get(r))
-            score += scoring.get(r)
-
-        print(score)
-      </code>
-     </pre>
-    </li>
-    
-    <li>Day 3 - Python - Today I used OpenAI Chat instead of Google to answer questions<br>
-     <pre>
-      <code>
-      # https://adventofcode.com/2022/day/3
-      # Part 1
-      import math
-
-      text = open("input.txt", "r")
-      rucksacks = text.read().splitlines()
-
-      shared_items = []
-
-      # Using openai chat to figure things out instead of Google
-      for r in rucksacks:
-          mid = math.ceil(len(r) / 2)
-          shared_items.append("".join(set(r[:mid]).intersection(set(r[mid:]))))
-      # print(shared_items)
-
-      total = 0
-      for i in shared_items:
-          v = 0
-          lower_value = ord(i.lower()) - 96
-          if i.isupper():
-              v = lower_value + 26
-          else:
-              v = lower_value
-          total += v
-      print(total)
-
-      # Part 2
-      total2 = 0
-      for i in range(0, len(rucksacks), 3):
-          badge = "".join(set(rucksacks[i]).intersection(set(rucksacks[i + 1]), set(rucksacks[i + 2])))
-          lower_value2 = ord(badge.lower()) - 96
-          if badge.isupper():
-              total2 += lower_value2 + 26
-          else:
-              total2 += lower_value2
-      # print(groups)
-      print(total2)
-      </code>
-     </pre>
-    </li>
-    
-  <li></li>
+   
+   <!-- JS code at bottom inserts each python file here -->
+   <p>
+   <ul id="code-list">
    </ul>
+   </p>
 
   </div>
   <div class="sidebar" id="sidebar"></div>
@@ -159,6 +42,31 @@
  <footer><div class="footer_content" id="footer_content"></div></footer>
 
  <script src="main.js"></script>
+ <script>
+const files = [];
+
+for (let i = 1; i <= 12; i++) {
+  files.push(`adventofcode2022/day${i}/main.py`);
+}
+
+const loadFiles = async () => {
+  for (let i = 0; i < files.length; i++) {
+    const file = files[i];
+    const response = await fetch(file);
+    const data = await response.text();
+    const li = document.createElement('li');
+    const text = document.createTextNode(`Day ${i + 1}`);
+    const pre = document.createElement('pre');
+    const code = document.createElement('code');
+    code.innerHTML = data;
+    li.appendChild(text);
+    pre.appendChild(code);
+    li.appendChild(pre);
+    document.querySelector('#code-list').appendChild(li);
+  }
+};
+
+</script>
  
 </body>
  
