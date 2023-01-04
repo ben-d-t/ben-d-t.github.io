@@ -25,10 +25,10 @@ html, body {
 }
 
 .main {
-  padding: 50px;
+  padding-left: 50px;
   height: 100%;
-  word-spacing: 1.2;
-  line-height: 1.2;
+  word-spacing: 2px;
+  line-height: 1.5;
   /* letter-spacing: 2px; */
 }
 
