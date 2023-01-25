@@ -61,3 +61,30 @@ footer {
 strong {
  font-weight: 1500; 
 }
+
+/* CSS for 3D game of life -- may need to modify with classes if using tables elsewhere */
+input[type=button] {
+    background-color: #00b3e5;
+    color: white;
+    font-size: 18px;
+}
+
+table {
+    text-indent: intial;
+    border-spacing: 2px;
+}
+
+.world table {
+    border-collapse: collapse;
+}
+
+.world table td {
+    border: 1px solid #EEEEEE;
+    width: 10px;
+    height: 10px;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
