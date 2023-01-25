@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+
+<html>
+ 
+<head>
+ <link rel="stylesheet" href="Style.css">
+ <link rel="preconnect" href="https://fonts.googleapis.com"> 
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+ <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+ <meta http-equiv='cache-control' content='no-cache'> 
+ <meta http-equiv='expires' content='0'> 
+ <meta http-equiv='pragma' content='no-cache'>
+ 
+ <title>3D Game of Life | Ben Thomas</title>
+ <script src="scripts/gol.js"></script>
+ 
+</head>
+ 
+
+<body onload="game.init()">
+        <div class="full_page">
+         
+         <div class="main">
+            <h2>3D Game of Life</h2>
+            <table>
+                <tr> 
+                    <td><div class="world" id="world0"></div></td> 
+                    <td></td> 
+                    <td></td> 
+                    <td></td> 
+                </tr>
+                <tr> 
+                    <td><div class="world" id="world1"></div></td> 
+                    <td><div class="world" id="world2"></div></td>
+                    <td><div class="world" id="world4"></div></td> 
+                    <td><div class="world" id="world3"></div></td> 
+                </tr>
+                <tr> 
+                    <td></td> 
+                    <td></td> 
+                    <td></td> 
+                    <td><div class="world" id="world5"></div></td> 
+                </tr>
+            </table>
+
+            <br>
+            <div id="control">
+                <form>
+                    <input type="button" value="Start/Stop" id="buttonRun" onclick="game.buttonRun()">
+                    <input type="button" value="Step" id="buttonStep" onclick="game.buttonNextStep()">
+                    <input type="button" value="Clear" onclick="game.buttonClear()">
+                </form>
+            </div>
+            <p>Generation: <span id="generation">0</span></p>
+         </div>
+  </div>
+
+  <div class="sidebar" id="sidebar"></div>
+ 
+ </div> 
+ 
+ <footer><div class="footer_content" id="footer_content"></div></footer>
+
+ <script src="main.js"></script>
+</body>
+ 
+</html>
