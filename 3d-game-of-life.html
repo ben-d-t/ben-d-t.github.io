@@ -53,6 +53,30 @@
             </div>
           
             <p>Generation: <span id="generation">0</span></p>
+            <br>
+            <br>
+          
+          <div>
+           <p><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">Conway's Game of Life</a> is a game with simple rules: 
+            (1) Any living cell with 2 or 3 neighbors lives on. 
+            (2) Any dead cell with exactly 3 live neighbors becomes a live cell.
+           </p>
+           <p>I wanted to build an infinite, "three dimensional" game by turning the finite 2D grid into a cube.
+              A fun edge case: some patterns that live on forever in an infinite 2D grid might eventually end here. 
+              This is because most cells have 8 neighbors, but in this version the corner cells only have 7 neighbors. Because math. 
+           </p>
+           <p> 
+            Try a <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#/media/File:Game_of_life_animated_glider.gif" target="_blank">glider</a>.
+           </p>
+           <p> Still to-do:
+            <ol>
+             <li>Select side length</li>
+             <li>Track visited squares</li>
+             <li>Load and export templates</li>
+             <li>Generalize to other nets of a cube (Note: I'm not sure the math works)</li>
+           </ol>
+           </p>
+          </div>
           
          </div>
          <div class="sidebar" id="sidebar"></div>
