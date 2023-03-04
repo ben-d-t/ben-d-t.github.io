@@ -1,0 +1,14 @@
+TODO:
+
+
+DONE:
+- Learn how to make the sidebar pull from another file so I don't have to replicate it
+  - This works great, but... it loads a little weird because the sidebar + footer load second. Kind of a bummer. So I might change it back sometime
+  - Actually this is more my slow old laptop; worked much quicker on my phone
+- Cap out the horizontal length of any page similar to PG: http://www.paulgraham.com/gfaq.html
+  - Readwise Reader is formatted similarly
+  - A UX article here: https://baymard.com/blog/line-length-readability
+- Safari doesn't seem to render the Google font...
+  - Wait, actually I think that was color contrast difference b/w my laptop & monitor? Weird
+- Increase spacing between words
+- Make a template.html file so that it's easier to add something new
