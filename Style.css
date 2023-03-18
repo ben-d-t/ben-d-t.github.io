@@ -34,7 +34,7 @@ div.main p {
   line-height: 1.5;
   letter-spacing: 1.2;
   max-width: 70ch;
-  word-wrawp: break-word;
+  word-wrap: break-word;
 }
 
 .sidebar {
@@ -63,7 +63,17 @@ footer {
 }
 
 strong {
- font-weight: 1500; 
+ font-weight: 1200; 
+}
+
+li {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+li p {
+  line-height: normal;
+  margin: 0;
 }
 
 /* CSS for 3D game of life -- may need to modify with classes if using tables elsewhere */
