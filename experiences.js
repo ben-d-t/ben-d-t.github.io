@@ -25,7 +25,7 @@ const experiences = [
         description: "Economics and math degree with highest distinction. Lawn resident",
         skills: ["research", "economics", "math"],
         starred: true,
-        type: "Education",
+        type: "Classes",
     },
 
     {
@@ -168,7 +168,7 @@ const experiences = [
         years: [2011, 2015],
         name: "Student, Alexandria City HS",
         description: "Valedectorian, Class Speaker",
-        type: "Education",
+        type: "Classes",
       },
 
       {
@@ -272,7 +272,7 @@ const experiences = [
         name: "Codecademy Full Stack Developer Course",
         description: "",
         skills: ["HTML", "Javascript", "CSS", "Python"],
-        type: "Education",
+        type: "Classes",
       },
 
       {
@@ -280,7 +280,7 @@ const experiences = [
         name: "Introduction to the Hebrew Bible - BibleProject Classroom",
         description: "Develop skills for reading ancient biblical texts as the authors intended",
         skills: ["hebrew bible"],
-        type: "Education",
+        type: "Classes",
         link: "https://bibleproject.com/classroom/overview/hebrew-bible-full-class/",
       },
 
@@ -289,7 +289,7 @@ const experiences = [
         name: "Adam to Noah - BibleProject Classrom",
         description: "Explore Genesis 2-5 to discover the repeating themes that develop throughout Scripture",
         skills: ["hebrew bible", "Genesis"],
-        type: "Education",
+        type: "Classes",
         link: "https://bibleproject.com/classroom/overview/adam-noah/",
       }
 

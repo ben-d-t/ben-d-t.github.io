@@ -76,7 +76,7 @@ function generateSkillsView(experiences) {
 
 function generateCVView(experiences) {
     const filteredExperiences = experiences.filter((experience) => experience.type !== "Work");
-    const typeOrder = ["Education", "Projects", "Publications", "Volunteering", "Work", "Awards"];
+    const typeOrder = ["Classes", "Projects", "Publications", "Volunteering", "Work", "Awards"];
     const typeMap = new Map();
   
     filteredExperiences.forEach((experience) => {
