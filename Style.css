@@ -71,10 +71,11 @@ li {
   margin-bottom: 10px;
 }
 
-li p {
+/* li p {
   line-height: normal;
   margin: 0;
 }
+*/
 
 /* CSS for 3D game of life -- may need to modify with classes if using tables elsewhere */
 input[type=button] {
