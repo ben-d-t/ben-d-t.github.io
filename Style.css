@@ -44,7 +44,9 @@ div.main {
 }
 
 a {
- color: #00b3e5;
+  color: #00b3e5;
+  border-bottom: 1px solid #00b3e5;
+  text-decoration: none;
 }
 
 h6 {
@@ -76,6 +78,7 @@ li {
   margin: 0;
 }
 */
+
 
 /* CSS for 3D game of life -- may need to modify with classes if using tables elsewhere */
 input[type=button] {
