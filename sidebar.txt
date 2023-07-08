@@ -8,4 +8,4 @@
      <p><a href="/progress">Economics of Progress</a></p>
      <p><a href="/bible">The Bible in the 21st Century</a></p>
      <p><a href="/cos">Chief of Staff</a></p>
-     <p><a href="/other">Other</a></p>
+     <p><a href="/more">More</a></p>
