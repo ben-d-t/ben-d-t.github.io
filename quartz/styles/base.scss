@@ -118,6 +118,10 @@ a {
     p > strong {
       color: var(--dark);
     }
+
+    & > p {
+      max-width: 42em; // Limiting the paragraph width to approximately 70 characters
+    }
   }
 
   & > #quartz-body {

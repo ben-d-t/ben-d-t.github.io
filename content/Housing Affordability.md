@@ -1,14 +1,14 @@
-##### 0. Why I’m interested
+### 0. Why I’m interested
 Growing up I moved 11 times before turning 16. So, I’ve always been interested in where people live and why. This page is a working summary of what I’m learning about housing, mostly focused on the U.S. 
 
-##### 1. Is there a problem? Sure seems like it
+### 1. Is there a problem? Sure seems like it
 Pew Research finds that about half (49%) of Americans say that housing availability in their community is a *major* problem. And that’s up 10 percentage points over the last few years ([More Americans See Affordable Housing as a Major Issue| Housing Finance Magazine](https://www.housingfinance.com/news/more-americans-see-affordable-housing-as-a-major-issue_o)).
 
 Many households pay a lot of money towards housing. One standard measure is “cost burden” — whether a household pays more than 30% (moderate) or 50% (severe) of gross income on housing costs. In 2019, ~30% of all households were cost burdened, ~54% of renters and ~21% of owners ([JCHS](https://www.jchs.harvard.edu/sites/default/files/interactive-item/files/Harvard_JCHS_State_Nations_Housing_Appendix_Tables_061621.xlsx)). This metric has flaws (for example, when calculated from Census data as the JCHS does, it does not reflect non-cash benefits), but at least it looks at the household budget level. 
 
 What about government programs? Unlike medical care and food assistance, housing assistance in the U.S. is not an entitlement. [Only one in four households eligible for housing assistance receive it](https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_State_Nations_Housing_2022.pdf). If a household is eligible to receive assistance, they usually end up on a long waitlist -- [if the waitlist is even open](https://www.housingcenter.com/wp-content/uploads/2017/11/waiting-list-spotlight.pdf) -- often for years. 
 
-##### 2. The root challenge is that there isn’t enough housing where people want to live
+### 2. The root challenge is that there isn’t enough housing where people want to live
 To be a bit pedantic, it’s not strictly a supply issue because there are more houses than households. Census Bureau estimates 142M housing units compared to 124M households ([U.S. Census Bureau QuickFacts: United States](https://www.census.gov/quickfacts/fact/table/US/HCN010217)). 
 
 While there are people who are homeless, and supporting them is an important policy issue, in terms of numbers that’s a small group relative to the number of households ([NAEH](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness/) estimated 580K people experiencing homelessness on it’s annual point-in-time count in January 2020). 
@@ -17,7 +17,7 @@ But that means it’s also not strictly a demand issue, because people live some
 
 So the root challenge is that there is a mismatch between where the homes are and where people want to live.
 
-##### 3. This mismatch is exacerbated by policy choices
+### 3. This mismatch is exacerbated by policy choices
 Is this just the market clearing price in different places? No, because there are policies that disturb supply and demand.
 
 [Residential zoning](https://en.wikipedia.org/wiki/Zoning_in_the_United_States) in many cities restricts what types of buildings can be where — whether that’s through zoning classes that exclusively allow single-family homes, height limits, minimum lot sizes, floor area ratio, etc. 
@@ -30,14 +30,14 @@ In practice these policy choices — and they are choices — result in fewer ho
 
 Oh, and some of these policies were intentionally and explicitly racist — see [The Color of Law](https://www.goodreads.com/en/book/show/32191706 ).
 
-##### 4. You should care because it causes bad outcomes for all of us
-Would you like to have $20K+ more per year, every year? [Hsieh & Moretti (2019)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/mac.20170388) estimated that with looser housing constraints US GDP in 2009 would have been 14 to 36% higher — that’s $13.8K to $35.5K more, per year, per worker. (The original paper actually *under*stated this result in some places due to some text errors, which [Bryan Caplan identified in 2021](https://www.econlib.org/a-correction-on-housing-regulation/))
+### 4. You should care because it causes bad outcomes for all of us
+Would you like to have `$20K+` more per year, every year? [Hsieh & Moretti (2019)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/mac.20170388) estimated that with looser housing constraints US GDP in 2009 would have been 14 to 36% higher — that’s `$13.8K` to `$35.5K` more, per year, per worker. (The original paper actually *under*stated this result in some places due to some text errors, which [Bryan Caplan identified in 2021](https://www.econlib.org/a-correction-on-housing-regulation/))
 
 How is that possible? The primary economic argument is that (a) cities tend to be high productivity areas due to [agglomeration effects](https://www.aeaweb.org/articles?id=10.1257/jel.47.4.983), and (b) high housing costs limit the number of workers who can move to these high productivity areas, therefore (c) productivity would be higher if housing were less expensive (as in, closer to the true market clearing price). One way to describe this is that [the hidden victims of housing regulation are those who stay in low productivity areas](https://www.econlib.org/immigration-and-housing-the-meaning-of-hsieh-moretti/).
 
 It gets worse than leaving trillions of dollars on the sidewalk through stunted labor productivity. Call it “[the housing theory of everything](https://worksinprogress.co/issue/the-housing-theory-of-everything)” — “Western housing shortages do not just prevent many from ever affording their own home. They also drive inequality, climate change, low productivity growth, obesity, and even falling fertility rates.” 
 
-##### 5. Moving towards housing abundance is possible 
+### 5. Moving towards housing abundance is possible 
 Some cities and states are ending exclusive single-family zoning. For example, in 2018 (final vote in 2019) Minneapolis became the first U.S. city to [end single-family zoning city-wide](https://tcf.org/content/report/minneapolis-ended-single-family-zoning/), allowing at least duplexes and triplexes everywhere. In 2021 [the state of California followed suit](https://focus.senate.ca.gov/sb9), allowing up to four homes on residential lots statewide. [In March 2023 Arlington County VA ended exclusively single-family zoning](https://www.washingtonpost.com/dc-md-va/2023/03/22/arlington-missing-middle-vote-zoning/) (though there’s a quite low cap on permits per year until 2028). Also [Oregon](https://www.strongtowns.org/journal/2019/7/3/making-normal-neighborhoods-legal-again) and [Charlotte NC](https://slate.com/business/2021/06/charlotte-single-family-zoning-segregation-housing.html). 
 
 Some states are using other zoning policy levers to push localities to reach housing goals.  [Some like Massachusetts](https://mass.streetsblog.org/2022/01/13/new-state-rule-would-force-suburbs-to-legalize-thousands-of-new-apartments-near-t-stops/) are encouraging “transit-oriented development” by requiring cities and towns to allow multifamiliy buildings near public transit. In California, a combination of updated target requirements and old but extant laws have given the state housing department more teeth — some [Bay Area cities might lose all local control of zoning](https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers) if housing targets aren’t reached. 
@@ -50,7 +50,7 @@ Technology advances could accelerate the impact of policy adjustments. It’s co
 
 There are more and more researchers and pundits talking about housing — at least relative to 2016 when I became interested — as part of an [“abundance agenda”](https://rootsofprogress.org/2022-in-review) which could also be [”progress studies,”](https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/) “state capacity libertarianism,” “innovation nation,” or “supply side progressivism” [depending on your preference](https://marginalrevolution.com/marginalrevolution/2022/02/tabarrok-on-the-ezra-klein-podcast.html).
 
-##### 6. In some ways those are relatively easy solutions, but incentives aren’t aligned
+### 6. In some ways those are relatively easy solutions, but incentives aren’t aligned
 The loudest arguments are probably against upzoning (as opposed to say permitting reform, updating building codes, or increasing voucher funding). You can find basically every critique out there — too much profit for developers, overwhelming local infrastructure, “neighborhood character,” and so on. 
 
 Existing and entrenched homeowners probably have the strongest incentives (and opinions!) — while it’s true that *all else equal*, upzoning a given property would increase its value, [it’s not clear what the equilibrium effect on home values would be from broad or narrow upzoning](https://www.strongtowns.org/journal/2022/1/18/what-would-mass-upzoning-actually-do-to-property-values), especially on specific properties in specific cities. Concerns about property values might explain why incremental approaches have had the most success.  
