@@ -16,4 +16,4 @@ I currently live in the Washington, DC area and work at [BibleProject](http://1
 
 The views, opinions, and mistakes expressed here are solely mine and do not reflect the views of any employer or other affiliation, whether past, present, future, or counterfactual.
 
-Contact: [LinkedIn](https://www.linkedin.com/in/ben-thomas-67059910a)| [Github](https://github.com/ben-d-t)
+Contact: [LinkedIn](https://www.linkedin.com/in/ben-thomas-67059910a) | [Github](https://github.com/ben-d-t)
