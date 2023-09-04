@@ -1,3 +1,8 @@
+---
+title: The Bible in the 21st Century
+aliases: []
+date: 7/1/2023
+---
 ##### 0. Why I’m interested
 In some ways this is revealed preference; I’m obviously interested because I’ve got a place called “[BibleProject](https://www.BibleProject.com)” on my resume. One reason for that is I believe the Bible is worth reading for everyone “even” in the 21st century.
 

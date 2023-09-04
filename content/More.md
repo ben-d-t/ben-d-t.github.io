@@ -1,3 +1,8 @@
+---
+title: More
+date: 8/24/2023
+alias:
+---
 A bit of a grab bag of writing or notes that don't yet fit elsewhere.
 #### 1. Are we getting more selfish over time? 
 A brief look at Google Ngram data. The use of the word "I" as a share of all words has increased 3X since 1980.

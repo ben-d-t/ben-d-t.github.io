@@ -1,3 +1,9 @@
+---
+title: Projects
+aliases:
+  - Projects
+date: 8/24/2023
+---
 1. The Economic Benefit of the Freedom of the Seas (add page and update link)
    
     What would happen to global trade and GDP if ships couldn't sail through certain key parts of the ocean? Published an article based off this project in a peer reviewed journal with [Kerem Cosar](http://www.keremcosar.com/index.html) (January 2021)

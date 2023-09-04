@@ -1,7 +1,7 @@
 ---
-title: Housing | Ben Thomas
-slug: housing
-date: 5/29/2023
+title: Housing Affordability
+alias: Housing Affordability
+date: 4/28/2023
 ---
 
 ### 0. Why I’m interested

@@ -1,3 +1,8 @@
+---
+title: Autism & Education
+aliases: []
+date: 5/8/2023
+---
 
 ##### 0. Why I’m interested
 - In college I did a couple extracurriculars that got me involved in the local disability community (Special Olympics, helping in a classroom at the high school, etc). That led me to take a yearlong class about autism. I learned a lot in that seminar and it really changed my mind and perspective. 

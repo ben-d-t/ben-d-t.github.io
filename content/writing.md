@@ -1,5 +1,7 @@
 ---
-
+title: On Writing
+aliases: []
+date: 1/4/2023
 ---
 
 ##### I want to write more.  
