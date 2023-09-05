@@ -1,4 +1,4 @@
-import { QuartzComponentConstructor } from "./types"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
 import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
@@ -46,9 +46,12 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: GraphOptions) => {
-  function Graph() {
+  function Graph({ fileData }: QuartzComponentProps) {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
+    if (fileData.slug == 'index') {
+      localGraph.depth = -1
+    }
     return (
       <div class="graph">
         <h3>Graph View</h3>

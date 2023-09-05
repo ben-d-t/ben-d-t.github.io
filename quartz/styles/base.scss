@@ -91,7 +91,7 @@ a {
   @media all and (max-width: $fullPageWidth) {
     margin: 0 auto;
     padding: 0 1rem;
-    max-width: $pageWidth;
+    max-width: $pageWidth*.8;
   }
 
   & article {
@@ -120,7 +120,7 @@ a {
     }
 
     & > p {
-      max-width: 42em; // Limiting the paragraph width to approximately 70 characters
+      max-width: 34em; // Limiting the paragraph width to approximately 70 characters
     }
   }
 
@@ -391,6 +391,7 @@ tbody,
 li,
 p {
   line-height: 1.6rem;
+   max-width: 34em;
 }
 
 table {
