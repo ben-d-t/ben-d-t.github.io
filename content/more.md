@@ -2,6 +2,7 @@
 title: More
 date: 8/24/2023
 alias:
+draft: true
 ---
 A bit of a grab bag of writing or notes that don't yet fit elsewhere.
 #### 1. Are we getting more selfish over time? 
