@@ -4,7 +4,9 @@ aliases:
   - Projects
 date: 8/24/2023
 ---
-1. The Economic Benefit of the Freedom of the Seas (add page and update link)
+**Projects index; or, proof that I can code a little.**
+
+1. [[free-seas|The Economic Benefit of the Freedom of the Seas]]
    
     What would happen to global trade and GDP if ships couldn't sail through certain key parts of the ocean? Published an article based off this project in a peer reviewed journal with [Kerem Cosar](http://www.keremcosar.com/index.html) (January 2021)
     
@@ -20,7 +22,7 @@ date: 8/24/2023
    
     An implementation of Conway's GoL wrapped around a cube (January 2023)
     
-5. [BibleProject Podcast Chatbot](http://127.0.0.1:5500/bp-podcast-chatbot/)  
+5. [BibleProject Podcast Chatbot](http://ben-d-t.github.io/bp-podcast-chatbot/)  
    
     Chatbot using OpenAI's GPT & Pinecone's vector database to answer questions about a favorite podcast (March 2023)
     
@@ -32,7 +34,7 @@ date: 8/24/2023
    
     Scripts to run LLM prompts locally in Terminal. Helpful for prompting models remotely and for tinkering with new ideas (May 2023)
     
-8. [[Patrick Collison's Bookshelf]] 
+8. [[pc-bookshelf|Patrick Collison's Bookshelf]]
    
     Using a simple python script and the OpenAI API to have GPT-4 sort and categorize the almost 800 books that Collison has (May 2023)
     

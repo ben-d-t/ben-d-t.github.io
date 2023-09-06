@@ -2,7 +2,6 @@
 title: 🏠Home 
 ---
 ### Welcome
-Hi, I'm Ben. I started this portfolio hoping to write and create more (slowly)
 - [[about|About]]
 - [[projects|Projects]]
 - [[more|More]]
@@ -19,8 +18,9 @@ Hi, I'm Ben. I started this portfolio hoping to write and create more (slowly)
 > 
 > [[marathons|Some thoughts on marathon training]]
 > 
-> Lessons from five attempts at running a marathon in under 3 hours. 
+> Results and reflections from training to qualify for the Boston Marathon (sub 3-hr time). It took me five tries to reach that goal. My general takeaway after running a bunch of marathons pretty close together is that the race result hinges on three factors: training, conditions, and execution. In part those are obvious. But what's helpful in this framework is realizing that you can't have more than one of these go wrong, especially because the marathon is so long. 
 
 
-### Writing
-...
+### More
+- [[free-seas|The Economic Benefit of the Freedom of the Seas]]
+- [[pc-bookshelf|Categorizing Patrick Collison's Bookshelf]]
