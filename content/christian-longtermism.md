@@ -2,10 +2,10 @@
 title: A case for Christian longtermism
 aliases: [A case for Christian longtermism]
 date: 5/17/2022
-draft: true
+draft: false
 ---
 
-> This essay was originally published in May 2022 on a Substack that I never continued. In August 2023 I also submitted it as a main piece of writing to the [Roots of Progress ]
+> This essay was originally published in May 2022 on a Substack that I haven't continued. In August 2023 I also submitted it as a main piece of writing to apply to the first [Roots of Progress blog building intensive](https://fellowship.rootsofprogress.org). (I wasn't selected; ROP is still awesome)
 
 How often do you think about your grandchildren? Or your great-grand-children? Including -- and especially -- if you are single or don't have any kids? 
 
@@ -126,7 +126,7 @@ In the Lord's Prayer, you are invited to help bring about the Kingdom of God her
 
 ___
 
-If you made it this far, thanks and please [like comment share subscribe](https://imgflip.com/i/4fusa8). In short: There are specific Christian beliefs that, when considered carefully, should motivate longterm thinking. Packaged together, I think the implications of these beliefs create an interesting argument in favor of some sort of "Christian longtermism" -- that is, longtermism motivated by specific Christian beliefs. 
+If you made it this far, thanks. In short: There are specific Christian beliefs that, when considered carefully, should motivate longterm thinking. Packaged together, I think the implications of these beliefs create an interesting argument in favor of some sort of "Christian longtermism" -- that is, longtermism motivated by specific Christian beliefs. 
 
 Some topics I would like to explore next: 
 - Common objections to this argument? 

@@ -22,5 +22,6 @@ title: 🏠Home
 
 
 ### More
-- [[free-seas|The Economic Benefit of the Freedom of the Seas]] - What would happen to global trade if key maritime routes were closed? Counterfactual analysis using GIS and a traditional gravity model of trade. A subset of this research is published in a peer reviewed economics journal. 
-- [[pc-bookshelf|Categorizing Patrick Collison's Bookshelf]] - Patrick Collison has a list of almost 800 books on his blog representing most of the books he owns. I used a simple python script and the OpenAI API to have GPT-4 sort and categorize the almost 800 books that Collison has. I was surprised at how many Biography & Memoir books Collison has and recommends. And a healthy dose of Literature & Fiction too. This project was also decent practice on what prompts work with this generation of LLMs for a sort of data processing task.
+- [[free-seas|The Economic Benefit of the Freedom of the Seas]] 
+- [[pc-bookshelf|Categorizing Patrick Collison's Bookshelf]] 
+- [[christian-longtermism|A case for Christian longtermism]]
