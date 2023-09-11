@@ -1,6 +1,6 @@
 ---
 title: The Bible in the 21st Century
-aliases: []
+aliases: [The Bible in the 21st Century]
 date: 7/1/2023
 ---
 ##### 0. Why I’m interested

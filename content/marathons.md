@@ -1,7 +1,7 @@
 ---
 title: Marathon Training
 date: 7/18/2023
-aliases: []
+aliases: [Some thoughts on marathon training]
 ---
 It took me 5 attempts to run a sub 3 hour marathon to qualify for the Boston Marathon. I wrote up some thoughts about each race to try to think through what went right and wrong to help with future training. 
 

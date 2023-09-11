@@ -4,7 +4,6 @@ title: 🏠Home
 ### Welcome
 - [[about|About]]
 - [[projects|Projects]]
-- [[more|More]]
 ### Topics
 - [[writing|On Writing]]
 - [[housing|Housing Affordability]]
@@ -25,3 +24,7 @@ title: 🏠Home
 - [[free-seas|The Economic Benefit of the Freedom of the Seas]] 
 - [[pc-bookshelf|Categorizing Patrick Collison's Bookshelf]] 
 - [[christian-longtermism|A case for Christian longtermism]]
+- [[mass-timber-usda|How USDA can help make more housing with mass timber]]
+- [[marathons|Some thoughts on marathon training]]
+- [[progress-and-religion|A pitch for writing about religion and economic progress]]
+- [[self-centeredness|Are we becoming more self-centered over time]]
