@@ -15,7 +15,7 @@ What is going on here? Is this evidence that we are becoming more individualisti
 
 Here are some ideas as to what’s happening: 
 
-1) The data is bad
+1) The data are bad
 
 2) I’m using the data wrong
 
@@ -66,4 +66,4 @@ Use of the word “we” is up ~50% since 1980, compared to, again, 3x or 200% f
 That’s a much bigger difference versus some of those other words. So even if changes in the type of books explains part of the trend, it still feels like there’s something to be said for the books being written becoming more individualistic. 
 
 ### **So what?** 
-Not sure. Just something I noticed and wanted to explore a bit. If anyone has any ideas, please let me know!
+Not sure. I just noticed and wanted to explore a bit. I'd be curious to read a book or something. Like "Bowling Alone" but even broader?
