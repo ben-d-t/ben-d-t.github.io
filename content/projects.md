@@ -42,7 +42,7 @@ date: 8/24/2023
    
     Script that takes in any verse in the Bible and returns a recommended video from the [BibleProject library](https://bibleproject.com/explore/) with reasoning. Simple, but good to learn a different way to structure vector embeddings. Included in [Local Scripts](https://github.com/ben-d-t/LocalScripts) (June 2023)
     
-10. Auto PKM  
+10. [Auto PKM](https://github.com/ben-d-t/archive/blob/main/autopkm.py)
     
     A series of prompts to generate ideas, draft writing, edit into [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes), and make connections across notes. Personal Knowledge Management on autopilot (July 2023)
 
