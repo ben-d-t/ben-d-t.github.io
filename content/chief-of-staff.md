@@ -36,7 +36,7 @@ Also, a CoS (or COO for that matter) helps round out a leadership team. No one i
 Over time I’m learning more about my strengths and interests:
 
 **I seem to be a generalist.** 
-- I enjoy being a generalist in life and work. I write about a variety of interests (see [[index|Home]]). In management consulting I liked working in a variety of industries. 
+- I enjoy being a generalist in life and work. I try to write about a variety of interests. In management consulting I liked working in a variety of industries. 
 - I’m pretty good as a generalist already. I did well in management consulting as a generalist, and my next role after that was also quite generalist (see [[about|About]])
 - I seem to be better at this type of role than others. I don’t seem to like doing the same work over and over again. I like to change up projects pretty often. I also don’t think I’m that good at managing people — yet; I’m getting better. 
 - I’m working on my toolkit. I’m learning to code more, tinkering with AI projects, [[writing|writing more]], and testing/proving my assumptions about what I like and don’t in my current role 
