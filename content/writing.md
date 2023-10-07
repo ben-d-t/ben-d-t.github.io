@@ -1,6 +1,6 @@
 ---
 title: On Writing
-aliases: []
+aliases: [On Writing]
 date: 1/4/2023
 ---
 

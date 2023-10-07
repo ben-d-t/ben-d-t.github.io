@@ -14,11 +14,11 @@ date: 8/24/2023
    
     Web scraping of box office data to look at change in top-10 revenue share over time (May 2022)
     
-3. Advent of Code 2022 (update link)
+3. [Advent of Code 2022](https://github.com/ben-d-t/archive/tree/main/adventofcode2022)
    
     My solutions for Eric Wastl's Advent of Code (December 2022)
     
-4. 3D Game of Life (update link)
+4. [3D Game of Life](https://ben-d-t.github.io/archive/3d-game-of-life)
    
     An implementation of Conway's GoL wrapped around a cube (January 2023)
     
@@ -50,6 +50,6 @@ date: 8/24/2023
     
     PugTech is a product studio and consultancy based in San Francisco, California. We specialize in solving real problems with technology with a special focus on generative AI. We are a small team of experienced engineers, product managers, and operators with extensive data science and (real) math backgrounds. (September 2023)
 
-12. Auto YouTube Shorts
+12. [Auto YouTube Shorts](https://www.youtube.com/channel/UCS5a3v3H121N-48QebGtDVg)
     
     Experiments in using text-to-speech (TTS) and other tools to combine text, audio, videos, and photos into short-form vertical content. (October 2023)
