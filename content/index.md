@@ -11,7 +11,7 @@ title: 🏠Home
 - [[bible|The Bible in the 21st Century]]
 - Technology & Society (WIP)
 - Economics of Progress (WIP)
-- [[content/chief-of-staff|Chief of Staff]]
+- [[chief-of-staff|Chief of Staff]]
 ### Latest
 > 2023-07-18
 > 
@@ -21,11 +21,11 @@ title: 🏠Home
 
 
 ### More
-- [[free-seas|The Economic Benefit of the Freedom of the Seas]] 
-- [[pc-bookshelf|Categorizing Patrick Collison's Bookshelf]] 
-- [[christian-longtermism|A case for Christian longtermism]]
-- [[mass-timber-usda|How USDA can help make more housing with mass timber]]
-- [[marathons|Some thoughts on marathon training]]
-- [[progress-and-religion|A pitch for writing about religion and economic progress]]
-- [[self-centeredness|Are we becoming more self-centered over time]]
 - Six years of reading (WIP)
+- [[self-centeredness|Are we becoming more self-centered over time]]
+- [[progress-and-religion|A pitch for writing about religion and economic progress]]
+- [[marathons|Some thoughts on marathon training]]
+- [[mass-timber-usda|How USDA can help make more housing with mass timber]]
+- [[christian-longtermism|A case for Christian longtermism]]
+- [[pc-bookshelf|Categorizing Patrick Collison's Bookshelf]] 
+- [[free-seas|The Economic Benefit of the Freedom of the Seas]] 

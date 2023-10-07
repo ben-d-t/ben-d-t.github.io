@@ -45,3 +45,11 @@ date: 8/24/2023
 10. Auto PKM  
     
     A series of prompts to generate ideas, draft writing, edit into [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes), and make connections across notes. Personal Knowledge Management on autopilot (July 2023)
+
+11. [PugTech](https://pugtech.co/about/)
+    
+    PugTech is a product studio and consultancy based in San Francisco, California. We specialize in solving real problems with technology with a special focus on generative AI. We are a small team of experienced engineers, product managers, and operators with extensive data science and (real) math backgrounds. (September 2023)
+
+12. Auto YouTube Shorts
+    
+    Experiments in using text-to-speech (TTS) and other tools to combine text, audio, videos, and photos into short-form vertical content. (October 2023)

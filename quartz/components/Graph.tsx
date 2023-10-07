@@ -59,7 +59,7 @@ export default ((opts?: GraphOptions) => {
       localGraph.depth = -1
     }
     return (
-      <div class={`graph ${displayClass ?? ""}`}>
+      <div class="graph">
         <h3>Graph View</h3>
         <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
