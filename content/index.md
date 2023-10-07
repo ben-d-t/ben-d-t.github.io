@@ -11,7 +11,7 @@ title: 🏠Home
 - [[bible|The Bible in the 21st Century]]
 - Technology & Society (WIP)
 - Economics of Progress (WIP)
-- Chief of Staff (WIP)
+- [[content/chief-of-staff|Chief of Staff]]
 ### Latest
 > 2023-07-18
 > 
