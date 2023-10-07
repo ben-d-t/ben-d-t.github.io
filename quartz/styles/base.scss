@@ -95,6 +95,8 @@ a {
   }
 
   & article {
+    position: relative;
+
     & > h1 {
       font-size: 2rem;
     }
@@ -451,7 +453,7 @@ video {
 
 ul.overflow,
 ol.overflow {
-  height: 300px;
+  max-height: 400;
   overflow-y: auto;
 
   // clearfix
@@ -459,7 +461,7 @@ ol.overflow {
   clear: both;
 
   & > li:last-of-type {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
   }
 
   &:after {
@@ -473,5 +475,11 @@ ol.overflow {
     opacity: 1;
     transition: opacity 0.3s ease;
     background: linear-gradient(transparent 0px, var(--light));
+  }
+}
+
+.transclude {
+  ul {
+    padding-left: 1rem;
   }
 }
