@@ -11,7 +11,7 @@ The views, opinions, and mistakes expressed here are solely mine and do not refl
 **Contact:** [LinkedIn](https://www.linkedin.com/in/ben-thomas-67059910a) | [Github](https://github.com/ben-d-t)
 
 **Resume:**
-- **Operations Manager, BibleProject** (2022 - 2023) -- Working with COO on strategy, operating model, organization structure, data and insights ([Link](https://www.bibleproject.com/)) -- strategy & operations, Looker, Heap, business intelligence, Gsuite
+- **Director of Operations, BibleProject** (2022 - present) -- Working with COO on strategy, operating model, organization structure, data and insights ([Link](https://www.bibleproject.com/)) -- strategy & operations, Looker, Heap, business intelligence, Gsuite
 	
 - **Fellow, McKinsey Global Institute** (2021 - 2022) -- Rotation in McKinsey’s business and economics research think tank ([Link](https://www.mckinsey.com/mgi/overview)) -- research, Powerpoint, Excel, Tableau
     

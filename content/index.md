@@ -28,3 +28,4 @@ title: 🏠Home
 - [[marathons|Some thoughts on marathon training]]
 - [[progress-and-religion|A pitch for writing about religion and economic progress]]
 - [[self-centeredness|Are we becoming more self-centered over time]]
+- Six years of reading (WIP)
