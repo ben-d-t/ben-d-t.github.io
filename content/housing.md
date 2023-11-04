@@ -3,7 +3,6 @@ title: Housing Affordability
 alias: Housing Affordability
 date: 4/28/2023
 ---
-
 ### 0. Why I’m interested
 Growing up I moved 11 times before turning 16. So, I’ve always been interested in where people live and why. This page is a working summary of what I’m learning about housing, mostly focused on the U.S. 
 

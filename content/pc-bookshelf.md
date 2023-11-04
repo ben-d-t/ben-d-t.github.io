@@ -1,6 +1,6 @@
 ---
 title: Patrick Collison's Bookshelf
-aliases: [Patrick Collison's Bookshelf]
+aliases: [Patrick Collison's Bookshelf, What Patrick Collison likes to read]
 date: 5/19/2023
 ---
 
