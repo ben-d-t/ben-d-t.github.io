@@ -38,7 +38,7 @@ date: 8/24/2023
    
     Using a simple python script and the OpenAI API to have GPT-4 sort and categorize the almost 800 books that Collison has (May 2023)
     
-9. Verse to Video Recommender  
+9. [Verse to Video Recommender](https://github.com/ben-d-t/LocalScripts/blob/main/verse2resource.py)  
    
     Script that takes in any verse in the Bible and returns a recommended video from the [BibleProject library](https://bibleproject.com/explore/) with reasoning. Simple, but good to learn a different way to structure vector embeddings. Included in [Local Scripts](https://github.com/ben-d-t/LocalScripts) (June 2023)
     

@@ -12,7 +12,7 @@ title: 🏠Home
 - [[autism-and-education|Autism & Education]]
 - [[bible|The Bible in the 21st Century]]
 - [[tech-and-society|Technology & Society]]
-- Economics of Progress (WIP)
+- [[economic-progress|Economics of Progress]]
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
