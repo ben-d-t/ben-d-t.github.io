@@ -37,6 +37,7 @@ Oh, and some of these policies were intentionally and explicitly racist — see 
 
 ### 4. You should care because it causes bad outcomes for all of us
 Would you like to have `$20K+` more per year, every year? [Hsieh & Moretti (2019)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/mac.20170388) estimated that with looser housing constraints US GDP in 2009 would have been 14 to 36% higher — that’s `$13.8K` to `$35.5K` more, per year, per worker. (The original paper actually *under*stated this result in some places due to some text errors, which [Bryan Caplan identified in 2021](https://www.econlib.org/a-correction-on-housing-regulation/))
+- TODO link note claiming coding errors reduce this effect by 2 orders of magnitude, last seen here: [HM_Comment.pdf - Google Drive](https://drive.google.com/file/d/1iNdQ2YBfUCbc2uH4p9wdnuoVGhJZLSqe/view?usp=drivesdk)
 
 How is that possible? The primary economic argument is that (a) cities tend to be high productivity areas due to [agglomeration effects](https://www.aeaweb.org/articles?id=10.1257/jel.47.4.983), and (b) high housing costs limit the number of workers who can move to these high productivity areas, therefore (c) productivity would be higher if housing were less expensive (as in, closer to the true market clearing price). One way to describe this is that [the hidden victims of housing regulation are those who stay in low productivity areas](https://www.econlib.org/immigration-and-housing-the-meaning-of-hsieh-moretti/).
 
