@@ -1,6 +1,7 @@
 ---
 date: 11/24/2023
 title: Tinkering with local LLMs
+alias: When local LLMs will be useful
 ---
 
 > Are local LLMs useful yet versus just using ChatGPT and the OpenAI API? 

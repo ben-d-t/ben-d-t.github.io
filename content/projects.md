@@ -53,3 +53,7 @@ date: 8/24/2023
 12. [Auto YouTube Shorts](https://www.youtube.com/channel/UCS5a3v3H121N-48QebGtDVg)
     
     Experiments in using text-to-speech (TTS) and other tools to combine text, audio, videos, and photos into short-form vertical content. (October 2023)
+
+13. Local Vector DB Manager
+    
+    Tinkering with semantic search over a pile of documents by creating vector embeddings and simply loading everything into a big dataframe. Hobbyists don't need a cloud-based vector database. (November 2023)

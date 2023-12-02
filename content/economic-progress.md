@@ -16,9 +16,9 @@ Economic growth is one of the most powerful forces for good in the world. But th
 
 Growth is tricky because 2% YoY growth is hardly noticeable. But exponential growth accumulates over time to massive compounding effects.
 
-Growth is also tricky because on the one hand, it's been incredibly reliable over the long run in the last 200 years. But at the same time, economic progress seems incredibly fragile at times. 
+Growth is also tricky because while it's been incredibly reliable over the long run in the last 200 years, economic progress seems incredibly fragile at times. 
 
-Also, even with decades of research, we don't really seem to fully *understand* economic growth. 
+And, even with decades of research, we don't really seem to fully *understand* economic growth. 
 
 >  I don’t think we really understand development at all, because if we could, we could predict it. We can predict virtually nothing.
 >  -- Stephen Jennings on [CWT E193](https://conversationswithtyler.com/episodes/stephen-jennings/)
