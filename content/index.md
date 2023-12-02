@@ -17,6 +17,7 @@ title: 🏠Home
 
 **More** ~ Some other writing to share:
 - Six years of reading (WIP)
+- [[Links from November 2023]]
 - [[Tinkering with local LLMs|When local LLMs will be useful]]
 - [[self-centeredness|Are we becoming more self-centered over time]]
 - [[progress-and-religion|A pitch for writing about religion and economic progress]]
