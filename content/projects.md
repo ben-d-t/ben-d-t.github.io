@@ -57,3 +57,7 @@ date: 8/24/2023
 13. Local Vector DB Manager
     
     Tinkering with semantic search over a pile of documents by creating vector embeddings and simply loading everything into a big dataframe. Hobbyists don't need a cloud-based vector database. (November 2023)
+
+14. [Advent of Code 2023](https://github.com/ben-d-t/ben-d-t.github.io/tree/main/adventofcode2023)
+   
+    My solutions for Eric Wastl's Advent of Code (December 2023). What a difference a year makes!

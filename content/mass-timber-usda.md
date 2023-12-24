@@ -5,7 +5,7 @@ date: 7/22/2023
 ---
 > In summer '23 I submitted this idea to the Federation of American Scientists' [Housing Supply Ideas Challenge](https://fas.org/accelerator/housing-supply-ideas-challenge/) , an initiative to crowdsource policy ideas for how the federal government can increase housing supply. State and local government officials generally have more ways to promote [[housing|Housing Affordability]], but the federal government can play a role too.
 
-### Mass timber can help with housing abumdance
+### Mass timber can help with housing abundance
 Compared to concrete and steel, mass timber buildings are faster and cheaper to construct, just as or safer in fires, and result in fewer CO2 emissions (and are renewable if the wood is sustainably forested). Single- and multi-family housing using mass timber, especially modular components, could put a significant dent in the 3.8M shortfall of housing units (https://en.wikipedia.org/wiki/Cross-laminated_timber, https://www.fastmarkets.com/insights/could-mass-timber-solve-the-us-housing-crisis, https://www.woodworks.org/why-wood/sustainability/)
 
 Use of mass timber is growing. But building codes -- slowly catching up to the technology and the latest research -- have limited the impact. Only in 2021 did amendments to the International Building Code enable the construction of mass timber buildings taller than 6 stories (up to 18). (https://www.structuremag.org/?p=19075, https://www.iccsafe.org/building-safety-journal/bsj-technical/tall-mass-timber-provisions-represent-historic-new-building-code-requirements/)
