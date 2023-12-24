@@ -16,7 +16,7 @@ title: 🏠Home
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
-- Six years of reading (WIP)
+- [[Six years of reading|What I learned from six years of reading]]
 - [[Links from November 2023]]
 - [[Tinkering with local LLMs|When local LLMs will be useful]]
 - [[self-centeredness|Are we becoming more self-centered over time]]
