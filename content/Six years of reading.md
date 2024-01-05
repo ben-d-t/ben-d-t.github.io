@@ -29,7 +29,7 @@ Here is my general approach to reading books right now:
 7: **Seek out recommendations and have a “to-read” list**. I used to just hold in my head the list of books I wanted to read. Now I use Goodreads to save and categorize books I’m interested in. Unfortunately it does give Amazon a *lot* of information about me… but for ease of having one tool that serves up recommendations from friends and keeps a list for later I’ve kept that tradeoff. See more about Feeds, Saving, and Recommendations at [[Thoughtfully manage your information ecosystem]]
 
 
-See also: 
+**See also:** 
 - [Reading Well - by Simon Sarris - The Map is Mostly Water](https://map.simonsarris.com/p/reading-well)
 > You should buy books on a whim, whenever possible, enough that you start to forget about them. You shouldn't know the whole contents of your own shelves
 - [Books are not Information Dense - by Arnold Kling](https://arnoldkling.substack.com/p/books-are-not-information-dense)

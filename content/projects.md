@@ -61,3 +61,7 @@ date: 8/24/2023
 14. [Advent of Code 2023](https://github.com/ben-d-t/ben-d-t.github.io/tree/main/adventofcode2023)
    
     My solutions for Eric Wastl's Advent of Code (December 2023). What a difference a year makes!
+
+15. [EasyOrgChart](https://www.tiktok.com/@developer.dog/video/7317704799686888747)
+
+	Create an editable org chart on slides with one click! Inspired by all the time I've spent maintaining an org chart by hands... Built in Google App Scripts and hoping publish as a Google Workspace Add-On soon. (December 2023).
