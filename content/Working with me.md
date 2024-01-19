@@ -1,5 +1,6 @@
 ---
 title: Working with me
+alias: Working with me public
 date: 1/19/2024
 ---
 > *Last updated August 2023*
