@@ -5,7 +5,7 @@ date: 1/19/2024
 ---
 > *Last updated August 2023*
 > 
-> This write up is inspired by Claire Hughes Johnson who popularized the idea [first online](https://growth.eladgil.com/book/the-role-of-the-ceo/insights-working-with-claire/) and I read it in [Scaling People by Claire Hughes Johnson](https://www.goodreads.com/en/book/show/63063173). I haven't shared it with many people in particular… but it feels helpful for self-reflection (to build self awareness), like a good place to synthesize feedback that I receive, and like it will be even more helpful down the road. 
+> This write up is inspired by Claire Hughes Johnson who popularized the idea [first online](https://growth.eladgil.com/book/the-role-of-the-ceo/insights-working-with-claire/) and I read it in [Scaling People](https://www.goodreads.com/en/book/show/63063173). I haven't shared it with many people in particular… but it feels helpful for self-reflection (to build self awareness), like a good place to synthesize feedback that I receive, and like it will be even more helpful down the road. 
 
 ___
 **What I look for in work**.
