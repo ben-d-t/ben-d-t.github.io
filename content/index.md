@@ -16,6 +16,7 @@ title: 🏠Home
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Links from January 2024]]
 - [[Working with me]]
 - [[Links from December 2023]]
 - [[Six years of reading|What I learned from six years of reading]]
