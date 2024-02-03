@@ -16,6 +16,7 @@ title: 🏠Home
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[climate|Why I'm not worried about climate change]]
 - [[Links from January 2024]]
 - [[Working with me]]
 - [[Links from December 2023]]
