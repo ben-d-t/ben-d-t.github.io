@@ -1,7 +1,6 @@
 ---
 title: How I think about climate change
 date: 2/3/2024
-draft: true
 aliases: [Why I'm not worried about climate change]
 ---
 
