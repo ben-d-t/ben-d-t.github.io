@@ -34,3 +34,6 @@ date: 1/30/2024
 15: [How To Legally Own Another Person | by Nassim Nicholas Taleb | INCERTO](https://medium.com/incerto/how-to-legally-own-another-person-4145a1802bf6). Linked without much background. I wonder how reception of ideas like this will change as work shifts over the next couple decades. 
 
 16: [Poem/1: AI rhyming clock by Matt Webb — Kickstarter](https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock). LLMs unlock simple ideas that used to be impractical. 
+
+
+*Disclaimer: Something something sharing a link is a recommendation but not necessarily an endorsement or a sign of agreement something something.*
