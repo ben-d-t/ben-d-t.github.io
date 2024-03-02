@@ -3,6 +3,8 @@ title: How USDA can help make more housing
 aliases: [How USDA can help make more housing with mass timber]
 date: 7/22/2023
 ---
+> Selected as an "idea of merit" by FAS and [published here](https://fas.org/publication/update-building-codes-to-use-mass-timber/) in February 2024.
+
 > In summer '23 I submitted this idea to the Federation of American Scientists' [Housing Supply Ideas Challenge](https://fas.org/accelerator/housing-supply-ideas-challenge/) , an initiative to crowdsource policy ideas for how the federal government can increase housing supply. State and local government officials generally have more ways to promote [[housing|Housing Affordability]], but the federal government can play a role too.
 
 ### Mass timber can help with housing abundance
