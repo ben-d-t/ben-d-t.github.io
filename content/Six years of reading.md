@@ -30,9 +30,11 @@ Here is my general approach to reading books right now:
 
 
 **See also:** 
-- [Reading Well - by Simon Sarris - The Map is Mostly Water](https://map.simonsarris.com/p/reading-well)
+
+[Reading Well - by Simon Sarris - The Map is Mostly Water](https://map.simonsarris.com/p/reading-well)
 > You should buy books on a whim, whenever possible, enough that you start to forget about them. You shouldn't know the whole contents of your own shelves
-- [Books are not Information Dense - by Arnold Kling](https://arnoldkling.substack.com/p/books-are-not-information-dense)
+
+[Books are not Information Dense - by Arnold Kling](https://arnoldkling.substack.com/p/books-are-not-information-dense)
 > I speculate that nonfiction books are headed down the path of academic journals. They will be useful for academics positioning themselves for tenure, but they will be too slow and ponderous for communicating ideas. People who really care about ideas will turn to reading and writing substacks instead of books and journals.
 - [Stuart Patience on Tyler Cowen on Reading](https://www.driverlesscrocodile.com/books-and-recommendations/tyler-cowen-on-reading-fast-reading-well-and-reading-widely/)
 - ["How Do You Read So Much?" || Tips to Read More - YouTube](https://youtu.be/KeVn2CzVWU8)
