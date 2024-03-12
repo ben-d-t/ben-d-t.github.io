@@ -16,6 +16,7 @@ title: 🏠Home
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[dense ideas|Compressing the best ideas is hard]]
 - [[Links from February 2024]]
 - [[grandkids|Write for your grandkids]]
 - [[climate|Why I'm not worried about climate change]]
