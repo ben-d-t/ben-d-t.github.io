@@ -1,5 +1,5 @@
 ---
-title: Just try LLMs at work
+title: How to try LLMs at work
 date: 3/23/2024
 ---
 > Compiled in 2023. A rough list of tips for using "AI" in a desk job that I've shared more than once. 
