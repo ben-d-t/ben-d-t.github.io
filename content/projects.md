@@ -48,15 +48,15 @@ date: 8/24/2023
 
 11. [PugTech](https://pugtech.co/about/)
     
-    PugTech is a product studio and consultancy based in San Francisco, California. We specialize in solving real problems with technology with a special focus on generative AI. We are a small team of experienced engineers, product managers, and operators with extensive data science and (real) math backgrounds. (September 2023)
+    PugTech is a product studio and consultancy based in San Francisco, California. We specialize in solving real problems with technology with a special focus on generative AI. We are a small team of experienced engineers, product managers, and operators with extensive data science and (real) math backgrounds (September 2023)
 
 12. [Auto YouTube Shorts](https://www.youtube.com/channel/UCS5a3v3H121N-48QebGtDVg)
     
-    Experiments in using text-to-speech (TTS) and other tools to combine text, audio, videos, and photos into short-form vertical content. (October 2023)
+    Experiments in using text-to-speech (TTS) and other tools to combine text, audio, videos, and photos into short-form vertical content (October 2023)
 
 13. Local Vector DB Manager
     
-    Tinkering with semantic search over a pile of documents by creating vector embeddings and simply loading everything into a big dataframe. Hobbyists don't need a cloud-based vector database. (November 2023)
+    Tinkering with semantic search over a pile of documents by creating vector embeddings and simply loading everything into a big dataframe. Hobbyists don't need a cloud-based vector database (November 2023)
 
 14. [Advent of Code 2023](https://github.com/ben-d-t/ben-d-t.github.io/tree/main/adventofcode2023)
    
@@ -64,4 +64,8 @@ date: 8/24/2023
 
 15. [EasyOrgChart](https://www.easyorgchart.xyz) 
 
-	[Quick demo on TikTok](https://www.tiktok.com/@developer.dog/video/7317704799686888747). Create an editable org chart on slides with one click! Inspired by all the time I've spent maintaining an org chart by hands... Built in Google App Scripts [published on the Google Workspace Marketplace](https://workspace.google.com/marketplace/app/easyorgchart/559761134192) as an add-on. (December 2023).
+	[Quick demo on TikTok](https://www.tiktok.com/@developer.dog/video/7317704799686888747). Create an editable org chart on slides with one click! Inspired by all the time I've spent maintaining an org chart by hands... Built in Google App Scripts [published on the Google Workspace Marketplace](https://workspace.google.com/marketplace/app/easyorgchart/559761134192) as an add-on (December 2023).
+
+16. Memorize Anything with encouraging AI feedback
+    
+	 Streamlit app that goes audio to Whisper API to text prompt to GPT-4 API to help you practice memorizing a text (March 2024)

@@ -30,6 +30,6 @@ This incentivizes state & local governments to adopt, and developers to push for
 
 If all states adopted IBC 2021 (and then 2024 and further mass timber related amendments), then more and more developers would try mass timber materials. 
 
-Full adoption could lead to rapidly falling cost of construction and therefore increased productivity in the industry. The tallest building using cross-laminated timber components (not fully mass timber) was completed in 2022 in Milwaukee in 75% less time compared to traditional construction techniques. (https://en.wikipedia.org/wiki/Cross-laminated_timber, https://www.fastmarkets.com/insights/could-mass-timber-solve-the-us-housing-crisis)
+Full adoption could lead to rapidly falling cost of construction and therefore increased productivity in the industry. One of the tallest buildings using cross-laminated timber components (not fully mass timber) was completed in 2022 in Milwaukee and the superstructure took about 50% less time compared to traditional construction techniques. (https://en.wikipedia.org/wiki/Cross-laminated_timber, https://www.fastmarkets.com/insights/could-mass-timber-solve-the-us-housing-crisis, https://www.cdsmith.com/ascent#woodworks-video)
 
 If existing mass timber components and construction processes are 4X faster, then further productivity improvements, learning rates, and innovation would push the full impact even further.   

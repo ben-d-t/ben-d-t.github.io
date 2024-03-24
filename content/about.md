@@ -8,7 +8,7 @@ I currently live in the Washington, DC area and work at [BibleProject](https://w
 
 The views, opinions, and mistakes expressed here are solely mine and do not reflect the views of any employer or other affiliation, whether past, present, future, or counterfactual.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/ben-thomas-67059910a) | [Github](https://github.com/ben-d-t)
+**Contact:** [@bdt2hw_ / X](https://twitter.com/bdt2hw_)| [LinkedIn](https://www.linkedin.com/in/ben-thomas-67059910a) | [Bento](https://bento.me/bdt)
 
 **Resume:**
 - **Director of Operations, BibleProject** (2022 - present) -- Working with COO on strategy, operating model, organization structure, data and insights ([Link](https://www.bibleproject.com/)) -- strategy & operations, Looker, Heap, business intelligence, Gsuite
