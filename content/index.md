@@ -16,6 +16,8 @@ title: 🏠Home
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Links from March 2024]]
+- [[rating books|Why I set a high bar for book recommendations]]
 - [[llms-at-work|How to try LLMs at work]]
 - [[dense ideas|Compressing the best ideas is hard]]
 - [[Links from February 2024]]
