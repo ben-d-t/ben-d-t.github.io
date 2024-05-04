@@ -19,5 +19,4 @@ So on Goodreads I rate books as follows:
 - 2 stars = If you told me you were going to read it, I would try to stop you
 - 1 star = I will go out of my way to dissuade you from reading it
 
-
 A result: It feels like a very good compliment when someone “wants to read” a book that I’ve recently read & given 5 stars. 
