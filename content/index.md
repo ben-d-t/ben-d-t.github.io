@@ -1,5 +1,6 @@
 ---
 title: 🏠Home 
+date: 1/1/1997
 ---
 
 **Welcome** ~ Learn a bit more about me and what I've worked on:
