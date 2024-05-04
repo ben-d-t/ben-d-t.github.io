@@ -16,6 +16,7 @@ title: 🏠Home
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Links from April 2024]]
 - [[figuring out taste|Why I want to figure out my taste]]
 - [[adjusting to AI|What I’m doing differently becuase of AI]]
 - [[Links from March 2024]]
