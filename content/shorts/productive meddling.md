@@ -8,9 +8,8 @@ How can you have impact when you’re mostly an influence-r, not a do-er?
 
 One option is to be a thoughtful agitator and productively meddle: 
 
-> 
-The Collison brothers call some part of what they do as leaders "productive meddling" [Patrick Collison & John Collison - A Business State of Mind - [Invest Like the Best, EP.348] - Invest Like the Best with Patrick O'Shaughnessy | Podcast on Spotify](https://open.spotify.com/episode/3nYbfxpjjJeISlFxNrtZjN?si=Esn5sfzLQRCFcEaR9kMcSg&t=4276)
-- TODO: add the full quote here
+> And a lot of those people are really fantastic, and it would be a mistake of me to be getting in their way but \[I] want to find some way to have some amount of productive meddling. I think similarly for John, I've been encouraging him to make sure that we retain sufficient productive meddling on the finance side, because he's very good at it.
+> [Patrick Collison c/o Invest Like the Best](https://www.joincolossus.com/episodes/85748309/collison-a-business-state-of-mind)
 
 What’s the difference between productive meddling and pointless meddling? 
 - **Productive meddling is high-trust.** You probably need a lot of shared trust with the people you are meddling with. 

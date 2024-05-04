@@ -1,6 +1,6 @@
 ---
 title: What I’m doing differently because of AI
-alias: What I’m doing differently becuase of AI
+alias: What I’m doing differently because of AI
 date: 4/2/2024
 ---
 

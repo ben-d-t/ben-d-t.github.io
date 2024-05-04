@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "ben-d-t.github.io",
+    baseUrl: "benthomas.xyz",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {

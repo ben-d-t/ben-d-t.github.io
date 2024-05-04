@@ -16,9 +16,10 @@ title: 🏠Home
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [Shorts: Screenshot size notes](https://www.benthomas.xyz/shorts/)
 - [[Links from April 2024]]
 - [[figuring out taste|Why I want to figure out my taste]]
-- [[adjusting to AI|What I’m doing differently becuase of AI]]
+- [[adjusting to AI|What I’m doing differently because of AI]]
 - [[Links from March 2024]]
 - [[rating books|Why I set a high bar for book recommendations]]
 - [[llms-at-work|How to try LLMs at work]]

@@ -6,16 +6,17 @@ date: 5/1/2024
 
 When I feel bored it’s my fault. 
 
-Sometimes at work I feel bored. Or sitting on the couch at home. I think in every circumstance it’s actually my fault if I feel bored. For these reasons:
-1. So much is available on my iPhone, including arguably the most powerful knowledge tool invented by humans so far in GPT-4
-2. I fundamentally believe I have agency. What’s that term for the opposite of taking a really passive mindset in general? The belief that you really can affect outcomes in your life? 
-3. I have demonstrated the ability / skills / capacity to be not bored, and have been gifted with the opportunities to develop / be that way. 
+Sometimes at work I feel bored. Or sitting on the couch at home. I think, in pretty much every circumstance, it’s actually my fault if I feel bored. 
 
-I do want to tease out… the right answer here is not to be a “hyper-productivity, listen o podcasts on 10x speed 24/7” kind of person. Because that sucks too. There’s a quote from… Amos or Tversky? About needing to have enough time to be lazy to be really productive. 
+For these reasons:
+1. **So much is available on my phone**, including arguably the most powerful knowledge tool invented by humans so far in GPT-4.
+2. **I have agency**. I fundamentally believe in an internal locus of control; I can actually affect the outcomes in my life. 
+3. **I've been not bored before**; I can think of plenty of examples of using my skills/opportunities/gifts to tackle something interesting. 
 
-So how would I define bored in the sense I mean here? 
-I think it’s closer to lethargic. 
+Now being a "hyper-productivity, podcasts on 10X speed" type of person sucks too. 
+> The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.
+> -- [Amos Tversky](https://en.wikiquote.org/wiki/Amos_Tversky)
 
-A feeling of “I don’t have something to do AND I feel annoyed about it AND for this and such reason — some excuse — I’m not doing anything to change this situation.”
+So what is the sense of "bored" meant here? A feeling of "I don't have something to do *and* I'm kind of annoyed about it *and* for some excuse, I'm not doing anything to change this situation." 
 
-This note is inspired by feedback I got from Rudy at BP around [[2023-W46]] about how I’d mentioned once or twice that I was feeling bored at work. His point was that was kind of my fault because at BP I have/had the latitude and autonomy to choose my own adventure, build my own portfolio. On reflection I think it’s a good thought and broader too.
+Excuse-driven lethargy. **That** is my fault and worth avoiding. 
