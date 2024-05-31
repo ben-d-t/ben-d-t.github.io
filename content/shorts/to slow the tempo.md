@@ -1,7 +1,7 @@
 ---
 title: It only takes one to slow the tempo
 alias: It only takes one to slow the tempo
-date: 5/1/2024
+date: 5/26/2024
 ---
 
 In a team, it takes everyone to up the tempo but only one to slow it down. 

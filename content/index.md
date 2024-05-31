@@ -17,6 +17,7 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Links from May 2024]]
 - [Shorts: Screenshot size notes](https://www.benthomas.xyz/shorts/)
 - [[Links from April 2024]]
 - [[figuring out taste|Why I want to figure out my taste]]
@@ -41,3 +42,5 @@ date: 1/1/1997
 - [[christian-longtermism|A case for Christian longtermism]]
 - [[pc-bookshelf|What Patrick Collison likes to read]]
 - [[free-seas|The Economic Benefit of the Freedom of the Seas]] 
+
+**Get updates** ~ your favorite RSS reader can [subscribe here](https://www.benthomas.xyz/index.xml). 
