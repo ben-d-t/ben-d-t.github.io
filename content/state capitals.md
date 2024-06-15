@@ -1,6 +1,6 @@
 ---
-title: Why state capitals are in such random cities
-aliases: [Why state capitals are in such random cities]
+title: Why state capitals are such random cities
+aliases: [Why state capitals are such random cities]
 date: 6/15/2024
 ---
 
