@@ -1,7 +1,7 @@
 ---
 title: If you make change happen then people want to work with you
 alias: If you make change happen then people want to work with you
-date: 5/1/2024
+date: 6/2/2024
 ---
 
 Imagine you enter a room with a big heavy ball in the middle. 

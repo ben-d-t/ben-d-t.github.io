@@ -1,7 +1,7 @@
 ---
 title: Leaders productively meddle
 alias: Leaders productively meddle
-date: 5/1/2024
+date: 5/29/2024
 ---
 
 How can you have impact when you’re mostly an influence-r, not a do-er? 

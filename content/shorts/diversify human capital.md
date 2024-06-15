@@ -1,6 +1,6 @@
 ---
 title: Is it time to diversify my human capital?  
-date: 5/1/2024
+date: 6/3/2024
 ---
 When I was in school the typical advice from economists was something like "specialize your labor/human capital, and diversify your investments/financial capital".
 

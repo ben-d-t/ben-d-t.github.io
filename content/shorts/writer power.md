@@ -1,7 +1,7 @@
 ---
 title: Writing the doc is power
 alias: Writing the doc is power
-date: 5/1/2024
+date: 5/25/2024
 ---
 
 Why write at work? One good reason is that the person writing the doc has a lot of power. 

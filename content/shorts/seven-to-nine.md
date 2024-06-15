@@ -1,7 +1,7 @@
 ---
 title: Be thoughtful about 7 to 9pm
 alias: Be thoughtful about 7 to 9pm
-date: 5/1/2024
+date: 5/28/2024
 ---
 7 to 9pm each day. I’m surprised how much of my life comes down to what I do during these two hours. 
 - How I feel during this time colors my impression of how the whole day went. 

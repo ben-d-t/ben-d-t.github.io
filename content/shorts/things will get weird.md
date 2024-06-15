@@ -1,7 +1,7 @@
 ---
 title: Things will get weird in my lifetime
 alias: Things will get weird in my lifetime
-date: 5/1/2024
+date: 5/27/2024
 ---
 
 I believe things are probably about to get weird in the next couple decades. 

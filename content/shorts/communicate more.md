@@ -1,7 +1,7 @@
 ---
 title: Choose to communicate more
 alias: Choose to communicate more
-date: 5/1/2024
+date: 6/15/2024
 ---
 
 In work, err on the side of communicating frequently and openly. Especially to the leadership projects you’re working on.  

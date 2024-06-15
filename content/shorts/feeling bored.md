@@ -1,7 +1,7 @@
 ---
 title: Feeling bored is your fault
 alias: Feeling bored is your fault
-date: 5/1/2024
+date: 5/30/2024
 ---
 
 When I feel bored it’s my fault. 

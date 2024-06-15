@@ -1,7 +1,7 @@
 ---
 title: Get agency by diving right in
 alias: Get agency by diving right in
-date: 5/1/2024
+date: 6/14/2024
 ---
 There’s much to be said for just rolling up your sleeves and getting your hands dirty. 
 
