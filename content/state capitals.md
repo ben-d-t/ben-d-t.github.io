@@ -16,7 +16,7 @@ Think about it!
 - Sacramento, CA
 - etc...
 
-Why is this? Is there a unifying reason? 
+Why is this? Is there a unifying reason?
 \
 ### Most state capitals are not in the largest city
 
