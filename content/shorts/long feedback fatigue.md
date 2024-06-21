@@ -1,7 +1,7 @@
 ---
 title: Do long feedback loops cause fatigue? 
 alias: Do long feedback loops cause fatigue? 
-date: 5/1/2024
+date: 6/20/2024
 ---
 
 Sometimes decision-making is fun and energizing. Other times really tiring. Why is there that much variance? 

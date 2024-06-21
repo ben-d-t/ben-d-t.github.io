@@ -1,13 +1,13 @@
 ---
 title: Focus on positive ambition AND contentment
 alias: Focus on positive ambition AND contentment
-date: 5/1/2024
+date: 6/21/2024
 ---
 
 I find I oscillate between feeling fired up and ambitious, to wanting to live on a quiet farm and tend a garden. 
 
 It's easy to think the options are: 
-Ambition <--- vs. ---> Contentment
+Ambition <-- vs. --> Contentment
 But really there's positive/negative sides to each:
 
 |          | Ambition                           | Contentment                                     |
