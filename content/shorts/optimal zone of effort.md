@@ -15,8 +15,8 @@ What I think is less intuitive is that this applies across many domains. This id
 
 “Optimal zone of effort” applies across many domains: 
 - Running -- Training is about finding the least-cost, efficient path to improvement. Not too much, not too little. 
-- Learning -- Studying a new topic is easier with some focus or structure. That's why it's a good idea to create your own syllabus. 
-- Work -- I find working reallyt iring when I get less done, not more. A slow work day seems to be tiring because it's sub-optimal effort. 
+- Learning -- Studying a new topic is easier with some focus or structure. That's why it's a good idea to [[make your own syllabi]]. 
+- Work -- I find working really tiring when I get less done, not more. A slow work day seems to be tiring because it's sub-optimal effort. 
 
 Put another way, obviously it's more tiring to do *too much* than the right amount. 
 
