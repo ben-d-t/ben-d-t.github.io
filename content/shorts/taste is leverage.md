@@ -1,6 +1,6 @@
 ---
 title: Taste is leverage 
-date: 6/25/2024
+date: 6/26/2024
 ---
 
 Quickly getting to a first draft is helpful leverage, whether you draft it or someone else helps. 
