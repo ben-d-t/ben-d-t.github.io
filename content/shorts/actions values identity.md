@@ -1,6 +1,6 @@
 ---
 title: Set boundaries between actions, values, and identity 
-date: 5/1/2024
+date: 6/23/2024
 ---
 Boundaries between your actions, your values, and your important. 
 
