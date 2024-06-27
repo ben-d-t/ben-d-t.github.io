@@ -10,7 +10,7 @@ Economics model this as an hourly wage, which is fuzzier on a salaried job where
 But it's still helpful to have a number in mind. 
 
 Not everyone does this, which means there are arbitrage opportunities -- trades that are basically free lunch if you value your time a little bit. Some I've noticed for me are:
-- Toll roads to save time -- especially with multiple people in the car. ($3 is worth it to save 3min if two people at $30/hr each)
+- Toll roads to save time -- especially with multiple people in the car. (3 bucks is worth it to save 3min if two people at 30/hr each)
 - Returning the rental car not full -- Sure they charge a couple $ per gallon but how much time would you save? Might be worth it.  
 - Parking -- my achilles heel is trying to find free street parking vs just paying for the parking garage... 
 - Amazon Prime -- time savings is how Amazon talks about the value of Prime in its annual report 
