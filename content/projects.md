@@ -69,3 +69,7 @@ date: 8/24/2023
 16. Memorize Anything with encouraging AI feedback
     
 	 Streamlit app that goes audio to Whisper API to text prompt to GPT-4 API to help you practice memorizing a text (March 2024)
+
+17. [Slides Toolkit Pro - Shortcuts to design and edit slides faster](https://www.slidestoolkit.pro)  
+
+	 An add on for Google Slides (TM) [published on the Workspace Marketplace](https://workspace.google.com/marketplace/app/slides_toolkit_pro/552060191951) (October 2024)
