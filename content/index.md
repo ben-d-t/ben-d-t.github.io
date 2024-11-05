@@ -17,6 +17,7 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Links from October 2024]]
 - [[Links from September 2024]]
 - [[Links from June 2024]]
 - [[state capitals|Why state capitals are such random cities]]
