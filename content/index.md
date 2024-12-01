@@ -17,6 +17,7 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[content/How geothermal really is renewable (Geothermal II)|How geothermal really is renewable (Geothermal II)]]
 - [[Links from November 2024]]
 - [[content/Geothermal energy for kids (Geothermal I)|Geothermal energy for kids (Geothermal I)]]
 - [[Links from October 2024]]

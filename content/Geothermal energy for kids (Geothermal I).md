@@ -1,3 +1,8 @@
+---
+title: Geothermal energy for kids (Geothermal I)
+date: 11/15/2024
+---
+
 
 > A new project -- I want to learn advanced technologies from scratch, and share what I learn. You can learn from scratch too!
 > 
