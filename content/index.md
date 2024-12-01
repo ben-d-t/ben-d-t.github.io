@@ -18,6 +18,7 @@ date: 1/1/1997
 
 **More** ~ Some other writing to share:
 - [[Links from November 2024]]
+- [[content/Geothermal energy for kids (Geothermal I)|Geothermal energy for kids (Geothermal I)]]
 - [[Links from October 2024]]
 - [[Links from September 2024]]
 - [[Links from June 2024]]
