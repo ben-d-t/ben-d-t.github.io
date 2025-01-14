@@ -1,5 +1,5 @@
 ---
-title: Links from Decembr 2024
+title: Links from December 2024
 date: 1/2/2025
 ---
 
