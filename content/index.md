@@ -17,6 +17,8 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Links from January 2025]]
+- [[The essays about progress that I share the most]]
 - [[Links from December 2024]]
 - [[How geothermal really is renewable|How geothermal really is renewable]]
 - [[Links from November 2024]]
