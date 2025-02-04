@@ -7,7 +7,7 @@ date: 1/1/1997
 - [[about|About]]
 - [[projects|Projects]]
 
-**Topics** ~ Central interests that I want to learn, think, and write about: 
+**Topics** ~ Central interests that I want to learn, think, and write about:
 - [[writing|On Writing]]
 - [[housing|Housing Affordability]]
 - [[autism-and-education|Autism & Education]]
