@@ -17,7 +17,9 @@ const config: QuartzConfig = {
     baseUrl: "benthomas.xyz",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
+      fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Lato",
@@ -34,6 +36,7 @@ const config: QuartzConfig = {
           secondary: "#1a2d4e",   // Deeper dark blue for secondary color
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#181818",
@@ -44,6 +47,7 @@ const config: QuartzConfig = {
           secondary: "#00b3e5",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
@@ -54,7 +58,6 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
-      Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -67,11 +70,12 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
+      Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
