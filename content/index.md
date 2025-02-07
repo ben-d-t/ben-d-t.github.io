@@ -16,7 +16,7 @@ date: 1/1/1997
 - [[economic-progress|Economics of Progress]]
 - [[chief-of-staff|Chief of Staff]]
 
-**More** ~ Some other writing to share:
+**More** ~ Some other writing to share: 
 - [[Links from January 2025]]
 - [[The essays about progress that I share the most]]
 - [[Links from December 2024]]
