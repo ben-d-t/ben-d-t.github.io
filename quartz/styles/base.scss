@@ -123,11 +123,8 @@ a {
 }
 
 .page {
-  @media all and (max-width: $fullPageWidth) {
-    margin: 0 auto;
-    padding: 0 1rem;
-    max-width: $pageWidth*.8;
-  }
+  max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
+  margin: 0 auto;
 
   & article {
     & > h1 {
