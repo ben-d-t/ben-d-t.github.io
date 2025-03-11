@@ -4,16 +4,18 @@ date: 11/12/2024
 aliases:
   - About
 ---
-I currently live in the Bay Area and work at [BibleProject](https://www.bibleproject.com). I grew up in many places and studied economics and math at UVA (go hoos). I started this portfolio because I want to get better at writing and programming. It's supposed to be a collection of topics and projects that I'm interested in. We'll see how it grows.
+I currently live in the Bay Area and work at the [Roots of Progress Institute](https://rootsofprogress.org/). I grew up in many places and studied economics and math at UVA (go hoos). I started this portfolio because I want to get better at writing and programming. It's supposed to be a collection of topics and projects that I'm interested in. We'll see how it grows.
 
 The views, opinions, and mistakes expressed here are solely mine and do not reflect the views of any employer or other affiliation, whether past, present, future, or counterfactual.
 
-**Contact:** [@bdt2hw_ / X](https://twitter.com/bdt2hw_)| [LinkedIn](https://www.linkedin.com/in/ben-thomas-67059910a) | [Bento](https://bento.me/bdt)
+**Contact:** [x.com/Ben\_Thomas\_o7](https://x.com/Ben_Thomas_o7)]| [LinkedIn](https://www.linkedin.com/in/ben-thomas-67059910a) | [Bento](https://bento.me/bdt)
 
 **Resume:** [Google drive link](https://drive.google.com/file/d/1yL1ygR5YrEI1RJ71-YerbqInXgy50iya/view?usp=sharing)
 
 **TL;DR**
-- **Director of Operations, BibleProject** (2022 - present) -- Working with COO on strategy, operating model, organization structure, data and insights ([Link](https://www.bibleproject.com/)) -- strategy & operations, Looker, Heap, business intelligence, Gsuite
+- **Event Manager, Roots of Progress Institute** (2025 - present) -- annual progress conference, creating new regional events, and starting other community building initiatives (lots to come!)
+  
+- **Director of Operations, BibleProject** (2022 - 2025) -- Working with COO on strategy, operating model, organization structure, data and insights ([Link](https://www.bibleproject.com/)) -- strategy & operations, Looker, Heap, business intelligence, Gsuite
 	
 - **Fellow, McKinsey Global Institute** (2021 - 2022) -- Rotation in McKinsey’s business and economics research think tank ([Link](https://www.mckinsey.com/mgi/overview)) -- research, Powerpoint, Excel, Tableau
     
