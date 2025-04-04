@@ -34,3 +34,5 @@ date: 2/1/2025
 
 15: [Corca](https://corca.app/login) -- a collaborative math editor. Overleaf meets Google docs I guess? 
 
+
+*Disclaimer: Something something sharing a link is a recommendation but not necessarily an endorsement or a sign of agreement something something.*

@@ -37,3 +37,6 @@ date: 2/28/2025
 15: [An Interview with Manna Founder and CEO Bobby Healy About Drone Delivery – Stratechery by Ben Thompson](https://stratechery.com/2025/an-interview-with-manna-founder-and-ceo-bobby-healy-about-drone-delivery/) -- TIL you can get coffee delivered by drone in Ireland. Not quite at scale yet but still. FAA, when? 
 
 16: [git push failure while pushing a large respository of code - Stack Overflow](https://stackoverflow.com/questions/62753648/git-push-failure-while-pushing-a-large-respository-of-code) -- my experience problem-solving with AI recently has been: ChatGPT suggests the correct answer early, I ignore it thinking thatdoesn't make sense and ask lots of follow up questions, get frustrated, re-read chats, work backwards to eventually try the first thing ChatGPT suggested, it works, oh. 
+
+
+*Disclaimer: Something something sharing a link is a recommendation but not necessarily an endorsement or a sign of agreement something something.*
