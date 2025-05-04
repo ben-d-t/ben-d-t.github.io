@@ -37,4 +37,5 @@ The future belongs to those who show up."
 15: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was skeptical of the $200/mo price tag for ChatGPT DeepResearch, but man is it paying off. The ability to get a cogent, well-referenced, literature review or annotated bibliography in 7 minutes is incredible. <br><br>Short thread on how I&#39;ve used it. Advice/feedback welcome.</p>&mdash; Chris Blattman (@cblatts) <a href="https://twitter.com/cblatts/status/1897377915622642173?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
 *Disclaimer: Something something sharing a link is a recommendation but not necessarily an endorsement or a sign of agreement something something.*
