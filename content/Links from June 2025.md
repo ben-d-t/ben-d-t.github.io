@@ -1,0 +1,4 @@
+
+
+X: SB79 is (hopefully) statewide upzoning near transit. I didn't realize, though, that so much of San Francisco is near a transit stop that this effectively allows multifamily in the entire city. Big deal if it passes!
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">SF is about to *accelerate* <a href="https://t.co/JJG4mwD8Zm">https://t.co/JJG4mwD8Zm</a></p>&mdash; Sam D&#39;Amico (@sdamico) <a href="https://twitter.com/sdamico/status/1930427444231843933?ref_src=twsrc%5Etfw">June 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

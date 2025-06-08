@@ -25,7 +25,7 @@ date: 5/2/2025
 
 10: [To Conquer the Primary Energy Consumption Layer of Our Entire Civilization – Casey Handmer's blog](https://caseyhandmer.wordpress.com/2025/04/08/to-conquer-the-primary-energy-consumption-layer-of-our-entire-civilization/) -- it's hard to overstate the potential transformation of (much) cheaper energy. 
 
-11: [How much math is knowable?](https://m.youtube.com/watch?v=VplMHWSZf5c) -- from Scott Sumner.  just smart enough to find it interesting. 
+11: [How much math is knowable?](https://m.youtube.com/watch?v=VplMHWSZf5c) -- from Scott Aaronson. I'm just barely smart enough to find it interesting. 
 
 12: [Conference – Roots of Progress Institute](https://rootsofprogress.org/conference/) -- what I've been working on!
 

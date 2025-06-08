@@ -17,6 +17,7 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share: 
+- [[Links from May 2025]]
 - [[Links from April 2025]]
 - [[Links from March 2025]]
 - [[Links from February 2025]] 
