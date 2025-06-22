@@ -1,4 +1,4 @@
-		---
+---
 title: Exactly what is going on with total factor productivity
 date: 6/21/2025
 ---
