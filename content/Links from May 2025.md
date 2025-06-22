@@ -3,7 +3,7 @@ title: Links from May 2025
 date: 6/7/2025
 ---
 
-1: [The city of Palo Alto's $1B budget](https://www.paloaltoonline.com/news/2025/05/05/city-manager-unveils-1b-budget/) which is ~$14.5K per resident
+1: [The city of Palo Alto's 1B budget](https://www.paloaltoonline.com/news/2025/05/05/city-manager-unveils-1b-budget/) which is ~14.5K per resident
 
 2: [Tariffs and Retaliation: A Brief Macroeconomic Analysis | NBER](https://www.nber.org/papers/w33739) -- "We study both a unilateral 10pp tariff increase and a global trade war scenario with retalia- tory tariffs of a similar magnitude. In either case, tariffs are always sharply contractionary for US GDP, increasing inflation and widening the trade deficit. Measured in welfare terms a unilateral tariff generates gains for the US due to a large terms of trade appreciation, but these US welfare gains vanish with global retaliation."
 
