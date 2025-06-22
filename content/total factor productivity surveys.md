@@ -1,4 +1,4 @@
----
+		---
 title: Exactly what is going on with total factor productivity
 date: 6/21/2025
 ---
@@ -141,4 +141,4 @@ That aside: "The more I wonder what’s wrong with the productivity statistics t
 
 But the productivity statistics mostly change due to changes in GDP. So it's really a bone to pick with how we measure GDP. Which brings you back to the regular old arguments about GDP, like that the measures don't account for consumer surplus from the internet or Wikipedia. Or that it doesn't account for increasing quality of like-products over time. 
 
-The productivity statistics (and those who measure them) are doing their best! 
+The productivity statistics (and those who measure them) are doing their best! Whatever's going on with TFP stagnation, it's either real or it has to do with how we measure output.
