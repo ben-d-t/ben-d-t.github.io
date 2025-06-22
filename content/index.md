@@ -17,7 +17,7 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share: 
-- [[total factor productivity surveys|What exactly is going on with total factory productivity]]
+- [[total factor productivity surveys|What exactly is going on with total factor productivity]]
 - [[Links from May 2025]]
 - [[Links from April 2025]]
 - [[Links from March 2025]]

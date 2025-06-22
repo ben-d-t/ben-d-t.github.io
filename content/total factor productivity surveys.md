@@ -50,7 +50,7 @@ This isn't some sort of alchemy -- it's just about having a well-reasoned argume
 
 [John Fernald's working paper](https://www.frbsf.org/wp-content/uploads/wp12-19bk.pdf) defines the methodology behind Eli's chart: 
 
-![[Screenshot 2025-06-21 at 2.43.09 PM.png]]
+![[tfp-equation.png]]
 
 Fernald does the math to get here, but also this formula makes intuitive sense. One way to measure TFP is to measure changes. Measure the percentage *change* in output, and then *subtract* how much of the change is because of changes in labor, changes in capital, or changes in utilization. What's left is (percentage change in) TFP! (Note this is why the chart doesn't have a "unit" -- the y-axis is just defined as change since an index year. TFP does sort of have a unit ($ per factor), but it's much easier to measure this way). 
 
@@ -77,7 +77,7 @@ So in short, there's four components built from about six data series (with a lo
 
 Fernald maintains a great data table with all of these underlying components. How have these four components changed over time? 
 
-![[Pasted image 20250607160335.png]]
+![[tfp-period-averages.png]]
 *My chart, combining the average changes for alpha and capital input; alpha, hours, and labor quality.*
 
 TFP growth was around ~2% per year in the 1947 to 1973 period, and again in the 1995-2004 period. The "great stagnation" is the other periods, when we've been averaging more ~0.5% per year. 
@@ -88,7 +88,7 @@ The utilization adjustment, while important, also doesn't make too much of a dif
 
 Plotting out the annual values, though, shows that there's a lot more variance in these components year to year. 
 
-![[Pasted image 20250621154808.png]]
+![[tfp-annual-components.png]]
 
 I think on one hand, this makes sense. During a recession, output goes down. But TFP might not go down, instead you would expect to see hours worked go down, utilization go down, and capital input to go down. Sure you might get less productive in some sectors, but mostly you're cancelling shifts and turning off the machines. Sure enough, in years like 2009 and 2020 that's what we see. 
 
@@ -104,7 +104,7 @@ How do economists come up with these numbers anyway? This TFP measure mostly use
 
 NIPA, since it's measuring GDP, basically uses a ton of different surveys. From the [NIPA Handbook](https://www.bea.gov/resources/methodologies/nipa-handbook):
 
-![[Pasted image 20250621160403.png]]
+![[tfp-bea-sources.png]]
 
 The Census Bureau administers more than 60 business surveys every year. Unlike for households, participation is *mandatory* in many of the business surveys by federal law ([About Business Surveys](https://www.census.gov/programs-surveys/surveyhelp/about-business-surveys.html)). Most surveys don't include every single business of course. ChatGPT says most of the business surveys are done electronically now a days, and even some direct data exchange for large companies with frequent reporting. 
 
@@ -121,10 +121,10 @@ The BLS also publishes a TFP measure ([Private Business Sector: Total Factor Pro
 
 Fernald shows that his quarterly TFP series (*without* the utilization adjustment) is highly correlated with the BLS measure (0.97):
 
-![[Pasted image 20250621164459.png]]
+![[tfp-compare-bls.png]]
 
 How does the BLS measure compare to Fernald's adjusted measure? Overlaying the annual version of Fernald's series, we see it's again not far off. So adjusting for the business cycle is more important for comparing year-over-year and quarter-over-quarter changes, and for understanding what changes are going on. But averaging over decades, TFP ends up in the same place. (That's great! That's what should be happening). 
-![[Pasted image 20250621165421.png]]
+![[tfp-compare-bls-fernald.png]]
 
 
 **Is this even a good idea?**
@@ -135,7 +135,7 @@ How does the BLS measure compare to Fernald's adjusted measure? Overlaying the a
 n.b. I think Zvi is wrong about imports here. The underlying business surveys ask about imports *and* inventory. An increase in imports in one survey should also show up as inventory in a different survey (as capital) which cancels out. I suppose there might be a time lag between when imports show up in a survey (as $ out the door to place an order) and when inventory shows up in a different survey (goods in a warehouse) -- average shipping time from China to US for sea freight is 20 to 40 days ([A Breakdown of China to USA Shipping Time — Dimerco](https://dimerco.com/resources/a-breakdown-of-china-to-usa-shipping-time/)), and a quarter is ~90 days... So most of that timing effect will be moot. Also, liberation day was in Q2. 
 
 That said there is about a 10% jump QoQ in imports in the BEA data in Q1 2025:
-![[Pasted image 20250621170311.png]]
+![[tfp-imports.png]]
 
 That aside: "The more I wonder what’s wrong with the productivity statistics the more I think they’re just a terrible measure of productivity?" is a fair question. 
 
