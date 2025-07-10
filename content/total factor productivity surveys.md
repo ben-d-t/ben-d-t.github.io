@@ -36,7 +36,7 @@ Note that this is the "utilization-adusted" TFP series, which adjusts for more t
 > 
 > -- [FRBSF](https://www.frbsf.org/research-and-insights/data-and-indicators/total-factor-productivity-tfp/)
 
-Note that this paper and methodology focuses exclusively on the *business* sector. This way of breaking down GDP excludes gross value added from Government and from Households -- still representing ~80% of GDP. (In other ways of calculating GDP, government spending is a larger share). 
+Also note that this paper and methodology focuses exclusively on the *business* sector. This way of breaking down GDP excludes gross value added from Government and from Households -- still representing ~80% of GDP. (In other ways of calculating GDP, government spending is a larger share). 
 
 **The formula**
 

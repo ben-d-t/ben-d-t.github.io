@@ -16,7 +16,9 @@ date: 1/1/1997
 - [[economic-progress|Economics of Progress]]
 - [[chief-of-staff|Chief of Staff]]
 
-**More** ~ Some other writing to share: 
+**More** ~ Some other writing to share:
+- [[parenting syllabus|How to be a parent (a syllabus)]]
+- [[Links from June 2025]]
 - [[total factor productivity surveys|What exactly is going on with total factor productivity]]
 - [[Links from May 2025]]
 - [[Links from April 2025]]
