@@ -17,6 +17,7 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Links from July 2025]]
 - [[parenting syllabus|How to be a parent (a syllabus)]]
 - [[Links from June 2025]]
 - [[total factor productivity surveys|What exactly is going on with total factor productivity]]
