@@ -43,6 +43,7 @@ date: 8/3/2025
 
 15: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My favorite edits:<br><br>- changed “a people” to “one people”<br><br>- changed “We hold these truths to be sacred and undeniable” to “We hold these truths to be self-evident”<br><br>Also, further down in the full draft, the word “subjects” is crossed out and changed to “citizens”<br><br>Just beautiful <a href="https://t.co/8HBnH8ZQag">https://t.co/8HBnH8ZQag</a></p>&mdash; Lulu Cheng Meservey (@lulumeservey) <a href="https://twitter.com/lulumeservey/status/1941217371718644169?ref_src=twsrc%5Etfw">July 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-16: Bummer: ![[Pride-in-Being-an-American-by-Political-Party-2001-2025.png]]
+16: [American Pride Slips to New Low](https://news.gallup.com/poll/692150/american-pride-slips-new-low.aspx) -- Bummer.
+![[Pride-in-Being-an-American-by-Political-Party-2001-2025.png]]
 
 *Disclaimer: Something something sharing a link is a recommendation but not necessarily an endorsement or a sign of agreement something something.*
