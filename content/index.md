@@ -17,6 +17,7 @@ date: 1/1/1997
 - [[chief-of-staff|Chief of Staff]]
 
 **More** ~ Some other writing to share:
+- [[Notes from the London Underground]]
 - [[Links from December 2025]]
 - [[Twelve thoughts from fatherhood]]
 - [[Links from September-November 2025]]
