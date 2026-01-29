@@ -5,7 +5,7 @@ This is Ben Thomas's personal website, hosted at www.benthomas.xyz.
 ## Architecture
 
 - **Static site generator**: Quartz v4 (forked from jackyzha0/quartz)
-- **Content source**: The `content/` folder is a symlink to an Obsidian vault at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/garden-claude/content`
+- **Content source**: The `content/` folder is a symlink to an Obsidian vault at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Garden/content`
 - **Hosting**: GitHub Pages via GitHub Actions
 
 ## Git Setup

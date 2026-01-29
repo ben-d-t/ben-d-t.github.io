@@ -17,7 +17,7 @@ What is taste?
 
 Why do I want to figure out my taste? Mostly because of how AI is changing media and work. 
 
-- **To know what is worth my time.** There is already too much out there to ever read/watch/learn it all (see [[Thoughtfully manage your information ecosystem|Thoughtfully manage your information ecosystem]]) With AI there is also an impending content flood — like probably orders of magnitude more of everything ([When Content Creation Goes to Zero](https://every.to/napkin-math/when-content-creation-goes-to-zero)). How can I tell whether a given article, podcast, video, artwork, movie is worth it to me to consume? 
+- **To know what is worth my time.** There is already too much out there to ever read/watch/learn it all (see [[EvergreenNotes/Thoughtfully manage your information ecosystem|Thoughtfully manage your information ecosystem]]) With AI there is also an impending content flood — like probably orders of magnitude more of everything ([When Content Creation Goes to Zero](https://every.to/napkin-math/when-content-creation-goes-to-zero)). How can I tell whether a given article, podcast, video, artwork, movie is worth it to me to consume? 
 
 - **To know what I like**. Many types of products are likely to become increasingly personalized — just like my TikTok feed is super personalized algorithmically right now, later it might be completely personalized generatively — with brand new content generated just for me / users of me type. How can I tell whether a generative product is selling me snake oil, or fish oil? Generating for me vs manipulating me? 
 
