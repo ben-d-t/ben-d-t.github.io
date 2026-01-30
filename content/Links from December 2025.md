@@ -14,7 +14,7 @@ draft: false
 
 4: [Claimyr](https://claimyr.com)  -- the California employment department phone line has no holds, so you pay a 3rd party to make a queue by repeatedly calling until someone picks up. As they say, "markets in everything". 
 
-6: [Five Books - Expert Book Recommendations](https://fivebooks.com) -- I now often read books recomended by AI, but human recs are still good. 
+5: [Five Books - Expert Book Recommendations](https://fivebooks.com) -- I now often read books recomended by AI, but human recs are still good.
 
 6: [BuildList - Discover Ambitious Companies Building the Future](https://www.buildlist.xyz) -- taste & curation >>> technical expertise
 
