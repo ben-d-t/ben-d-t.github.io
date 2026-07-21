@@ -5,7 +5,7 @@ This is Ben Thomas's personal website, hosted at www.benthomas.xyz.
 ## Architecture
 
 - **Static site generator**: Quartz v4 (forked from jackyzha0/quartz)
-- **Content source**: The `content/` folder is a symlink to an Obsidian vault at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Garden/content`
+- **Content source**: `content/` is a **real directory** in this repo — the Obsidian vault at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Garden/content` is a symlink pointing *into* it. The direction matters: git cannot track files through a symlink (`fatal: pathspec 'content/' is beyond a symbolic link`), so if `content/` here ever becomes a symlink or a macOS Alias file, `quartz sync` will commit the deletion of every note. If a sync ever deletes the whole content tree, check `file content` first — iCloud has replaced this link with an Alias before.
 - **Hosting**: GitHub Pages via GitHub Actions
 
 ## Git Setup
